@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@integza</id>
   <title>integza TikTok</title>
-  <updated>2023-08-21T20:23:14+00:00</updated>
+  <updated>2023-08-24T12:52:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -37,19 +37,19 @@
     <published>2023-08-16T14:17:31+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@integza/video/7268027684276505888</id>
-    <title>I built an IONIC PLASMA THRUSTER #thruster #ionic #jetengine </title>
-    <updated>2023-08-16T20:59:27+00:00</updated>
-    <content>I built an IONIC PLASMA THRUSTER #thruster #ionic #jetengine </content>
-    <link href="https://tiktok.com/@integza/video/7268027684276505888" rel="alternate"/>
-    <published>2023-08-16T20:59:27+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@integza/video/7269873707823238433</id>
     <title>#stitch with @Naia Butler-Craig (she/her) Tomatoes are disgusting! #thruster #ion #jetengine </title>
     <updated>2023-08-21T20:23:14+00:00</updated>
     <content>#stitch with @Naia Butler-Craig (she/her) Tomatoes are disgusting! #thruster #ion #jetengine </content>
     <link href="https://tiktok.com/@integza/video/7269873707823238433" rel="alternate"/>
     <published>2023-08-21T20:23:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@integza/video/7270870894153567521</id>
+    <title>I harnessed ionic wind to create a plasma thruster 🚀 #Science #Integza #3DPrinting #Physics </title>
+    <updated>2023-08-24T12:52:33+00:00</updated>
+    <content>I harnessed ionic wind to create a plasma thruster 🚀 #Science #Integza #3DPrinting #Physics </content>
+    <link href="https://tiktok.com/@integza/video/7270870894153567521" rel="alternate"/>
+    <published>2023-08-24T12:52:33+00:00</published>
   </entry>
 </feed>
