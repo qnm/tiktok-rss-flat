@@ -13,14 +13,6 @@
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from integza</subtitle>
   <entry>
-    <id>https://tiktok.com/@integza/video/7265684980116802848</id>
-    <title>One of the simplest thrust engines you can find is a balloon filled with air, but what if I apply fuel, ignition and some clever geometry? #ScienceTok #JetEngine # 3DPrinting #PhyscisTok </title>
-    <updated>2023-08-10T13:28:37+00:00</updated>
-    <content>One of the simplest thrust engines you can find is a balloon filled with air, but what if I apply fuel, ignition and some clever geometry? #ScienceTok #JetEngine # 3DPrinting #PhyscisTok </content>
-    <link href="https://tiktok.com/@integza/video/7265684980116802848" rel="alternate"/>
-    <published>2023-08-10T13:28:37+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@integza/video/7265996737343442209</id>
     <title>A balloon is one of the simplest thrust engines you can find but what if I added some pulsating combustion?  #ScienceTok #JetEngine #3DPrinting #PhyscisTok </title>
     <updated>2023-08-11T09:38:22+00:00</updated>
@@ -35,6 +27,14 @@
     <content>Can I prevent my 3D printed combustion chamber from melting by water cooling it? #ScienceTok #Engieering #3DPrinting #Physcis</content>
     <link href="https://tiktok.com/@integza/video/7267924103443533088" rel="alternate"/>
     <published>2023-08-16T14:17:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@integza/video/7269873707823238433</id>
+    <title>#stitch with @Naia Butler-Craig (she/her) Tomatoes are disgusting! #thruster #ion #jetengine </title>
+    <updated>2023-08-21T20:23:14+00:00</updated>
+    <content>#stitch with @Naia Butler-Craig (she/her) Tomatoes are disgusting! #thruster #ion #jetengine </content>
+    <link href="https://tiktok.com/@integza/video/7269873707823238433" rel="alternate"/>
+    <published>2023-08-21T20:23:14+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@integza/video/7270870894153567521</id>
