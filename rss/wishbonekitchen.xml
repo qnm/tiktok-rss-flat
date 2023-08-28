@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@wishbonekitchen</id>
   <title>wishbonekitchen TikTok</title>
-  <updated>2023-08-28T13:36:38+00:00</updated>
+  <updated>2023-08-28T17:59:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from wishbonekitchen</subtitle>
-  <entry>
-    <id>https://tiktok.com/@wishbonekitchen/video/7270207032072949035</id>
-    <title>a low key sunday shift 🤘energy is on the decline at this point in the season but we perservere #privatechef #hamptons #dayinmylife </title>
-    <updated>2023-08-22T17:56:41+00:00</updated>
-    <content>a low key sunday shift 🤘energy is on the decline at this point in the season but we perservere #privatechef #hamptons #dayinmylife </content>
-    <link href="https://tiktok.com/@wishbonekitchen/video/7270207032072949035" rel="alternate"/>
-    <published>2023-08-22T17:56:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@wishbonekitchen/video/7270530992471854382</id>
     <title>5 minute sashimi bowls 🤝 5 minute @Olehenriksen Dewtopia Flash Facial. Skincare (not sashimi) available @sephora #olepartner #oleglow </title>
@@ -51,5 +43,13 @@
     <content>this low key might have been my favorite dinner this season 🦞🍅🥩</content>
     <link href="https://tiktok.com/@wishbonekitchen/video/7272366482942643499" rel="alternate"/>
     <published>2023-08-28T13:36:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@wishbonekitchen/video/7272434172063436074</id>
+    <title>my favorite video from last summer 😭🤍</title>
+    <updated>2023-08-28T17:59:10+00:00</updated>
+    <content>my favorite video from last summer 😭🤍</content>
+    <link href="https://tiktok.com/@wishbonekitchen/video/7272434172063436074" rel="alternate"/>
+    <published>2023-08-28T17:59:10+00:00</published>
   </entry>
 </feed>
