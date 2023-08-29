@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@wishbonekitchen</id>
   <title>wishbonekitchen TikTok</title>
-  <updated>2023-08-28T17:59:10+00:00</updated>
+  <updated>2023-08-29T12:36:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from wishbonekitchen</subtitle>
-  <entry>
-    <id>https://tiktok.com/@wishbonekitchen/video/7270530992471854382</id>
-    <title>5 minute sashimi bowls 🤝 5 minute @Olehenriksen Dewtopia Flash Facial. Skincare (not sashimi) available @sephora #olepartner #oleglow </title>
-    <updated>2023-08-23T14:53:50+00:00</updated>
-    <content>5 minute sashimi bowls 🤝 5 minute @Olehenriksen Dewtopia Flash Facial. Skincare (not sashimi) available @sephora #olepartner #oleglow </content>
-    <link href="https://tiktok.com/@wishbonekitchen/video/7270530992471854382" rel="alternate"/>
-    <published>2023-08-23T14:53:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@wishbonekitchen/video/7270695883837230382</id>
     <title>Replying to @Seth Boylan perfect pasta recipe for these final weeks of summer 🍅s </title>
@@ -51,5 +43,13 @@
     <content>my favorite video from last summer 😭🤍</content>
     <link href="https://tiktok.com/@wishbonekitchen/video/7272434172063436074" rel="alternate"/>
     <published>2023-08-28T17:59:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@wishbonekitchen/video/7272722244411985194</id>
+    <title>gm! amatriciana eggs in purgatory + gf pancakes with farmers market peaches </title>
+    <updated>2023-08-29T12:36:55+00:00</updated>
+    <content>gm! amatriciana eggs in purgatory + gf pancakes with farmers market peaches </content>
+    <link href="https://tiktok.com/@wishbonekitchen/video/7272722244411985194" rel="alternate"/>
+    <published>2023-08-29T12:36:55+00:00</published>
   </entry>
 </feed>
