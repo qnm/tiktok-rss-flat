@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@wishbonekitchen</id>
   <title>wishbonekitchen TikTok</title>
-  <updated>2023-08-30T12:43:22+00:00</updated>
+  <updated>2023-08-31T12:30:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from wishbonekitchen</subtitle>
-  <entry>
-    <id>https://tiktok.com/@wishbonekitchen/video/7272366482942643499</id>
-    <title>this low key might have been my favorite dinner this season 🦞🍅🥩</title>
-    <updated>2023-08-28T13:36:38+00:00</updated>
-    <content>this low key might have been my favorite dinner this season 🦞🍅🥩</content>
-    <link href="https://tiktok.com/@wishbonekitchen/video/7272366482942643499" rel="alternate"/>
-    <published>2023-08-28T13:36:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@wishbonekitchen/video/7272434172063436074</id>
     <title>my favorite video from last summer 😭🤍</title>
@@ -51,5 +43,13 @@
     <content>@wishbonekitchen hot honey, plum, and balsamic glazed pork with grilled radicchio and peaches + some salmon dinner prep 🤘</content>
     <link href="https://tiktok.com/@wishbonekitchen/video/7273094959702478126" rel="alternate"/>
     <published>2023-08-30T12:43:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@wishbonekitchen/video/7273462797156060459</id>
+    <title>I’m not crying YOU’RE CRYING 😭 but I’m so excited for this next chapter love you all sm</title>
+    <updated>2023-08-31T12:30:38+00:00</updated>
+    <content>I’m not crying YOU’RE CRYING 😭 but I’m so excited for this next chapter love you all sm</content>
+    <link href="https://tiktok.com/@wishbonekitchen/video/7273462797156060459" rel="alternate"/>
+    <published>2023-08-31T12:30:38+00:00</published>
   </entry>
 </feed>
