@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@xylafoxlin</id>
   <title>xylafoxlin TikTok</title>
-  <updated>2023-08-11T17:23:03+00:00</updated>
+  <updated>2023-09-01T20:15:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from xylafoxlin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@xylafoxlin/video/7256125134140951851</id>
-    <title>Merp…. Not my best. That last sheet was a little sketchy and i HATE when my composites work isnt what i know it can be. What would you have done? I was out of carbon so i knew it had to go down, i didnt gave any spare cloth for mess ups </title>
-    <updated>2023-07-15T19:11:39+00:00</updated>
-    <content>Merp…. Not my best. That last sheet was a little sketchy and i HATE when my composites work isnt what i know it can be. What would you have done? I was out of carbon so i knew it had to go down, i didnt gave any spare cloth for mess ups </content>
-    <link href="https://tiktok.com/@xylafoxlin/video/7256125134140951851" rel="alternate"/>
-    <published>2023-07-15T19:11:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@xylafoxlin/video/7256677123274919210</id>
     <title>Meet: Spite. Shes my all carbon minimum diameter rocket I flew at Mach 2.3 to 23,000 feet for my 27th birthday because i was sick of people assuming i was at test sites as my colleague’s girlfriend or PR girl. #LightThatCandle #am_a_civil_engineer #carbon</title>
@@ -51,5 +43,13 @@
     <content>Got a bunch of complaints that the launch sequence had music and editing in my full length video- so here’s a far away iphone clip that adds a lot of perspective to the speed and trajectory of Spite! #carbonfiber #rocketry #highpowerrocket </content>
     <link href="https://tiktok.com/@xylafoxlin/video/7266116430200917290" rel="alternate"/>
     <published>2023-08-11T17:23:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@xylafoxlin/video/7273953814837824810</id>
+    <title>This was one of the longest and most challenging builds of my career- was it worth it?? Meet “Next Thursday” the 10 foot dinghy i built as a gift for the @centerforwoodenboats in Seattle #sailboat #boatbuilder </title>
+    <updated>2023-09-01T20:15:57+00:00</updated>
+    <content>This was one of the longest and most challenging builds of my career- was it worth it?? Meet “Next Thursday” the 10 foot dinghy i built as a gift for the @centerforwoodenboats in Seattle #sailboat #boatbuilder </content>
+    <link href="https://tiktok.com/@xylafoxlin/video/7273953814837824810" rel="alternate"/>
+    <published>2023-09-01T20:15:57+00:00</published>
   </entry>
 </feed>
