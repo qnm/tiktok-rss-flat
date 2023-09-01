@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@integza</id>
   <title>integza TikTok</title>
-  <updated>2023-08-31T10:21:47+00:00</updated>
+  <updated>2023-09-01T13:37:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from integza</subtitle>
-  <entry>
-    <id>https://tiktok.com/@integza/video/7267924103443533088</id>
-    <title>Can I prevent my 3D printed combustion chamber from melting by water cooling it? #ScienceTok #Engieering #3DPrinting #Physcis</title>
-    <updated>2023-08-16T14:17:31+00:00</updated>
-    <content>Can I prevent my 3D printed combustion chamber from melting by water cooling it? #ScienceTok #Engieering #3DPrinting #Physcis</content>
-    <link href="https://tiktok.com/@integza/video/7267924103443533088" rel="alternate"/>
-    <published>2023-08-16T14:17:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@integza/video/7269873707823238433</id>
     <title>#stitch with @Naia Butler-Craig (she/her) Tomatoes are disgusting! #thruster #ion #jetengine </title>
@@ -51,5 +43,13 @@
     <content>The @Dyson bladeless fan generates 15x more airflow than a bladed fan, which is why I think it’s perfect to turn it into a jet engine. #Dyson #JetEngine #Integza</content>
     <link href="https://tiktok.com/@integza/video/7273429631242423584" rel="alternate"/>
     <published>2023-08-31T10:21:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@integza/video/7273851117941951777</id>
+    <title>The Gyrojet handgun was designed to fire a bullet that could then ignite and propel it further and faster. #Integza #Jet #Handgun #Rocket </title>
+    <updated>2023-09-01T13:37:24+00:00</updated>
+    <content>The Gyrojet handgun was designed to fire a bullet that could then ignite and propel it further and faster. #Integza #Jet #Handgun #Rocket </content>
+    <link href="https://tiktok.com/@integza/video/7273851117941951777" rel="alternate"/>
+    <published>2023-09-01T13:37:24+00:00</published>
   </entry>
 </feed>
