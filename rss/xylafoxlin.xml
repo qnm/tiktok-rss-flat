@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@xylafoxlin</id>
   <title>xylafoxlin TikTok</title>
-  <updated>2023-09-01T20:15:57+00:00</updated>
+  <updated>2023-09-05T18:39:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from xylafoxlin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@xylafoxlin/video/7256677123274919210</id>
-    <title>Meet: Spite. Shes my all carbon minimum diameter rocket I flew at Mach 2.3 to 23,000 feet for my 27th birthday because i was sick of people assuming i was at test sites as my colleague’s girlfriend or PR girl. #LightThatCandle #am_a_civil_engineer #carbon</title>
-    <updated>2023-07-17T06:53:48+00:00</updated>
-    <content>Meet: Spite. Shes my all carbon minimum diameter rocket I flew at Mach 2.3 to 23,000 feet for my 27th birthday because i was sick of people assuming i was at test sites as my colleague’s girlfriend or PR girl. #LightThatCandle #am_a_civil_engineer #carbonrocket #rocketry #modelrocket #mach2 #CapCut </content>
-    <link href="https://tiktok.com/@xylafoxlin/video/7256677123274919210" rel="alternate"/>
-    <published>2023-07-17T06:53:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@xylafoxlin/video/7264789641314782507</id>
     <title>Build the projects that help you go outside and enjoy life ❤️ my teardrop trailer has taken me so many places I’ve always dreamed of visiting— so far we’ve done 9 national parks and 4,000+ miles together. I’ve climbed so many mountains and ended the day c</title>
@@ -51,5 +43,13 @@
     <content>This was one of the longest and most challenging builds of my career- was it worth it?? Meet “Next Thursday” the 10 foot dinghy i built as a gift for the @centerforwoodenboats in Seattle #sailboat #boatbuilder </content>
     <link href="https://tiktok.com/@xylafoxlin/video/7273953814837824810" rel="alternate"/>
     <published>2023-09-01T20:15:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@xylafoxlin/video/7275413269714636074</id>
+    <title>MOTOR DEINTEGRATION feat. @BPS.space! Honestly we psychologically prepped ourselves for a much worse evening than ended up happening 😅 incredibly grateful to #GaragePole, i gotta get me one of those </title>
+    <updated>2023-09-05T18:39:23+00:00</updated>
+    <content>MOTOR DEINTEGRATION feat. @BPS.space! Honestly we psychologically prepped ourselves for a much worse evening than ended up happening 😅 incredibly grateful to #GaragePole, i gotta get me one of those </content>
+    <link href="https://tiktok.com/@xylafoxlin/video/7275413269714636074" rel="alternate"/>
+    <published>2023-09-05T18:39:23+00:00</published>
   </entry>
 </feed>
