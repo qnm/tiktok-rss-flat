@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@danielarsham</id>
   <title>danielarsham TikTok</title>
-  <updated>2023-04-07T02:15:34+00:00</updated>
+  <updated>2023-09-11T10:15:26.573877+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,44 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from danielarsham</subtitle>
-  <entry>
-    <id>https://tiktok.com/@danielarsham/video/7116190381712248110</id>
-    <title>Reels to here 🤷🏻‍♂️</title>
-    <updated>2022-07-03T16:53:10+00:00</updated>
-    <content>Reels to here 🤷🏻‍♂️</content>
-    <link href="https://tiktok.com/@danielarsham/video/7116190381712248110" rel="alternate"/>
-    <published>2022-07-03T16:53:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@danielarsham/video/7151011831014821163</id>
-    <title>Friday 12 Noon ET at www.danielarsham.com/sho0</title>
-    <updated>2022-10-05T12:58:45+00:00</updated>
-    <content>Friday 12 Noon ET at www.danielarsham.com/sho0</content>
-    <link href="https://tiktok.com/@danielarsham/video/7151011831014821163" rel="alternate"/>
-    <published>2022-10-05T12:58:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@danielarsham/video/7200121810241998126</id>
-    <title>My exhibtion at Orange County Museum of Art opens today ❤️‍🔥</title>
-    <updated>2023-02-14T21:10:16+00:00</updated>
-    <content>My exhibtion at Orange County Museum of Art opens today ❤️‍🔥</content>
-    <link href="https://tiktok.com/@danielarsham/video/7200121810241998126" rel="alternate"/>
-    <published>2023-02-14T21:10:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@danielarsham/video/7203586959346765099</id>
-    <title>See you Tomorrow at the Petersen Museum in LA. I’ll be there at 6 pm</title>
-    <updated>2023-02-24T05:16:35+00:00</updated>
-    <content>See you Tomorrow at the Petersen Museum in LA. I’ll be there at 6 pm</content>
-    <link href="https://tiktok.com/@danielarsham/video/7203586959346765099" rel="alternate"/>
-    <published>2023-02-24T05:16:35+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@danielarsham/video/7219125884362476843</id>
-    <title>Drawing process</title>
-    <updated>2023-04-07T02:15:34+00:00</updated>
-    <content>Drawing process</content>
-    <link href="https://tiktok.com/@danielarsham/video/7219125884362476843" rel="alternate"/>
-    <published>2023-04-07T02:15:34+00:00</published>
-  </entry>
 </feed>
