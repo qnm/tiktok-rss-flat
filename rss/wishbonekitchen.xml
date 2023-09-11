@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@wishbonekitchen</id>
   <title>wishbonekitchen TikTok</title>
-  <updated>2023-09-01T12:56:19+00:00</updated>
+  <updated>2023-09-11T16:14:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from wishbonekitchen</subtitle>
-  <entry>
-    <id>https://tiktok.com/@wishbonekitchen/video/7272722244411985194</id>
-    <title>gm! amatriciana eggs in purgatory + gf pancakes with farmers market peaches </title>
-    <updated>2023-08-29T12:36:55+00:00</updated>
-    <content>gm! amatriciana eggs in purgatory + gf pancakes with farmers market peaches </content>
-    <link href="https://tiktok.com/@wishbonekitchen/video/7272722244411985194" rel="alternate"/>
-    <published>2023-08-29T12:36:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@wishbonekitchen/video/7272859866958564654</id>
     <title>this new grocery store is about to be in HEAVY rotation @Tory Burch #toryburchpartner</title>
@@ -51,5 +43,13 @@
     <content>Replying to @oliverthelovepug In my author era!! So, yes I am temporarily stepping away from private chef work BUT that is because I am officially writing my debut cookbook!!!! I’ll still be posting lots of content as I take you along with me during this next chapter of life but figured I should fill you in 🥹 Love you all thank you for making my dreams come true 💗</content>
     <link href="https://tiktok.com/@wishbonekitchen/video/7273840524212112682" rel="alternate"/>
     <published>2023-09-01T12:56:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@wishbonekitchen/video/7277602257477143850</id>
+    <title>how’d I do @josephaltuzarra ??</title>
+    <updated>2023-09-11T16:14:10+00:00</updated>
+    <content>how’d I do @josephaltuzarra ??</content>
+    <link href="https://tiktok.com/@wishbonekitchen/video/7277602257477143850" rel="alternate"/>
+    <published>2023-09-11T16:14:10+00:00</published>
   </entry>
 </feed>
