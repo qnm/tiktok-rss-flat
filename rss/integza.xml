@@ -13,14 +13,6 @@
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from integza</subtitle>
   <entry>
-    <id>https://tiktok.com/@integza/video/7273429631242423584</id>
-    <title>The @Dyson bladeless fan generates 15x more airflow than a bladed fan, which is why I think it’s perfect to turn it into a jet engine. #Dyson #JetEngine #Integza</title>
-    <updated>2023-08-31T10:21:47+00:00</updated>
-    <content>The @Dyson bladeless fan generates 15x more airflow than a bladed fan, which is why I think it’s perfect to turn it into a jet engine. #Dyson #JetEngine #Integza</content>
-    <link href="https://tiktok.com/@integza/video/7273429631242423584" rel="alternate"/>
-    <published>2023-08-31T10:21:47+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@integza/video/7273851117941951777</id>
     <title>The Gyrojet handgun was designed to fire a bullet that could then ignite and propel it further and faster. #Integza #Jet #Handgun #Rocket </title>
     <updated>2023-09-01T13:37:24+00:00</updated>
@@ -43,6 +35,14 @@
     <content>The uncertainty of how successful a project will be is always paid off when it works, usually paid off. #MakerMovement #Physics #JetEngine </content>
     <link href="https://tiktok.com/@integza/video/7276019992850615584" rel="alternate"/>
     <published>2023-09-07T09:53:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@integza/video/7276451017401699616</id>
+    <title>I created a 3D printed Wankel Rotary engined car! #Integza #RotaryEngine #3DPrinting #RCCar</title>
+    <updated>2023-09-08T13:46:20+00:00</updated>
+    <content>I created a 3D printed Wankel Rotary engined car! #Integza #RotaryEngine #3DPrinting #RCCar</content>
+    <link href="https://tiktok.com/@integza/video/7276451017401699616" rel="alternate"/>
+    <published>2023-09-08T13:46:20+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@integza/video/7277926683540327712</id>
