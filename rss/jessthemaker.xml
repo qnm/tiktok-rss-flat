@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jessthemaker</id>
   <title>jessthemaker TikTok</title>
-  <updated>2023-08-15T16:41:38+00:00</updated>
+  <updated>2023-08-03T19:43:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessthemaker</subtitle>
+  <entry>
+    <id>https://tiktok.com/@jessthemaker/video/7247500599611149614</id>
+    <title>Nothing like some unsolicited advice when you’re mountain biking 🫣 What bad advice should I include for PART 2 that you’ve heard out on the trails? 🤯 Also, meet my alter ego, Vito.  #mtbfun #mtbhumor #ridebikeshavefunfeelgood #mtbreels #mtbwomen #mtbskill</title>
+    <updated>2023-06-22T13:24:26+00:00</updated>
+    <content>Nothing like some unsolicited advice when you’re mountain biking 🫣 What bad advice should I include for PART 2 that you’ve heard out on the trails? 🤯 Also, meet my alter ego, Vito.  #mtbfun #mtbhumor #ridebikeshavefunfeelgood #mtbreels #mtbwomen #mtbskills #mtbaddict #mtbadventures </content>
+    <link href="https://tiktok.com/@jessthemaker/video/7247500599611149614" rel="alternate"/>
+    <published>2023-06-22T13:24:26+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@jessthemaker/video/7257188972395334954</id>
     <title>We almost had it all 💔 #manpunchingwindow #manpunchingcarwindow #manpunchingwindow #rollinginthedeep </title>
@@ -43,13 +51,5 @@
     <content>2 years later… still choosing bikes over our home renovation 🤣 What do you put on the back burner so you can spend more time on bikes 😍?? Ps. dark towels make great black out curtains. You’re welcome.</content>
     <link href="https://tiktok.com/@jessthemaker/video/7263183998472424746" rel="alternate"/>
     <published>2023-08-03T19:43:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jessthemaker/video/7267590131425611051</id>
-    <title>Easily increase the value of your home by… …adding more bikes 😜 Home many bikes per human in your household? Inspired by a comment @scottbrohagan made on a previous reel 😎 #mtbhumor #ridebikesbehappy #mtblife #mtblove #mtbgram #mtbdaily </title>
-    <updated>2023-08-15T16:41:38+00:00</updated>
-    <content>Easily increase the value of your home by… …adding more bikes 😜 Home many bikes per human in your household? Inspired by a comment @scottbrohagan made on a previous reel 😎 #mtbhumor #ridebikesbehappy #mtblife #mtblove #mtbgram #mtbdaily </content>
-    <link href="https://tiktok.com/@jessthemaker/video/7267590131425611051" rel="alternate"/>
-    <published>2023-08-15T16:41:38+00:00</published>
   </entry>
 </feed>
