@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@wishbonekitchen</id>
   <title>wishbonekitchen TikTok</title>
-  <updated>2023-09-11T16:14:10+00:00</updated>
+  <updated>2023-09-14T17:25:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from wishbonekitchen</subtitle>
-  <entry>
-    <id>https://tiktok.com/@wishbonekitchen/video/7272859866958564654</id>
-    <title>this new grocery store is about to be in HEAVY rotation @Tory Burch #toryburchpartner</title>
-    <updated>2023-08-29T21:30:56+00:00</updated>
-    <content>this new grocery store is about to be in HEAVY rotation @Tory Burch #toryburchpartner</content>
-    <link href="https://tiktok.com/@wishbonekitchen/video/7272859866958564654" rel="alternate"/>
-    <published>2023-08-29T21:30:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@wishbonekitchen/video/7273094959702478126</id>
     <title>@wishbonekitchen hot honey, plum, and balsamic glazed pork with grilled radicchio and peaches + some salmon dinner prep 🤘</title>
@@ -51,5 +43,13 @@
     <content>how’d I do @josephaltuzarra ??</content>
     <link href="https://tiktok.com/@wishbonekitchen/video/7277602257477143850" rel="alternate"/>
     <published>2023-09-11T16:14:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@wishbonekitchen/video/7278733970873912606</id>
+    <title>it’s genuinely sad how excited I am about this</title>
+    <updated>2023-09-14T17:25:28+00:00</updated>
+    <content>it’s genuinely sad how excited I am about this</content>
+    <link href="https://tiktok.com/@wishbonekitchen/video/7278733970873912606" rel="alternate"/>
+    <published>2023-09-14T17:25:28+00:00</published>
   </entry>
 </feed>
