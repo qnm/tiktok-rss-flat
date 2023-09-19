@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@wishbonekitchen</id>
   <title>wishbonekitchen TikTok</title>
-  <updated>2023-09-17T20:06:30+00:00</updated>
+  <updated>2023-09-19T20:03:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from wishbonekitchen</subtitle>
-  <entry>
-    <id>https://tiktok.com/@wishbonekitchen/video/7277602257477143850</id>
-    <title>how’d I do @josephaltuzarra ??</title>
-    <updated>2023-09-11T16:14:10+00:00</updated>
-    <content>how’d I do @josephaltuzarra ??</content>
-    <link href="https://tiktok.com/@wishbonekitchen/video/7277602257477143850" rel="alternate"/>
-    <published>2023-09-11T16:14:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@wishbonekitchen/video/7278733970873912606</id>
     <title>it’s genuinely sad how excited I am about this</title>
@@ -51,5 +43,13 @@
     <content>sausage and pepps w crispy shallots and hot honey.. my hungover brain is so ✨creative✨</content>
     <link href="https://tiktok.com/@wishbonekitchen/video/7279888728561028382" rel="alternate"/>
     <published>2023-09-17T20:06:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@wishbonekitchen/video/7280630074536217899</id>
+    <title>fall glow up loading✨ tap the link in my bio to explore tons of fresh fall styles on Nuuly Rent #TimeToNuuly #NuulyPartner #Nuuly </title>
+    <updated>2023-09-19T20:03:18+00:00</updated>
+    <content>fall glow up loading✨ tap the link in my bio to explore tons of fresh fall styles on Nuuly Rent #TimeToNuuly #NuulyPartner #Nuuly </content>
+    <link href="https://tiktok.com/@wishbonekitchen/video/7280630074536217899" rel="alternate"/>
+    <published>2023-09-19T20:03:18+00:00</published>
   </entry>
 </feed>
