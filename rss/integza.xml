@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@integza</id>
   <title>integza TikTok</title>
-  <updated>2023-09-22T10:56:20+00:00</updated>
+  <updated>2023-09-22T14:59:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from integza</subtitle>
-  <entry>
-    <id>https://tiktok.com/@integza/video/7276451017401699616</id>
-    <title>I created a 3D printed Wankel Rotary engined car! #Integza #RotaryEngine #3DPrinting #RCCar</title>
-    <updated>2023-09-08T13:46:20+00:00</updated>
-    <content>I created a 3D printed Wankel Rotary engined car! #Integza #RotaryEngine #3DPrinting #RCCar</content>
-    <link href="https://tiktok.com/@integza/video/7276451017401699616" rel="alternate"/>
-    <published>2023-09-08T13:46:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@integza/video/7277926683540327712</id>
     <title>Turning my @Dyson hairdryer into a jet engine #Dyson #JetEngine #Integza </title>
@@ -51,5 +43,13 @@
     <content>Bladeless turbine built by Nikola Tesla #Integza #Tesla #Turbine </content>
     <link href="https://tiktok.com/@integza/video/7281602394906004769" rel="alternate"/>
     <published>2023-09-22T10:56:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@integza/video/7281665002623323425</id>
+    <title>Acrylic, brass, MDF and a nail. that's right, I'm making a combustion chamber engine. #Integza #3DPrinting #Engineering</title>
+    <updated>2023-09-22T14:59:15+00:00</updated>
+    <content>Acrylic, brass, MDF and a nail. that's right, I'm making a combustion chamber engine. #Integza #3DPrinting #Engineering</content>
+    <link href="https://tiktok.com/@integza/video/7281665002623323425" rel="alternate"/>
+    <published>2023-09-22T14:59:15+00:00</published>
   </entry>
 </feed>
