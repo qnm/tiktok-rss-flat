@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@wishbonekitchen</id>
   <title>wishbonekitchen TikTok</title>
-  <updated>2023-09-21T13:44:25+00:00</updated>
+  <updated>2023-09-22T20:42:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from wishbonekitchen</subtitle>
-  <entry>
-    <id>https://tiktok.com/@wishbonekitchen/video/7279443294847913247</id>
-    <title>for my fall girlies who don’t like to bake 🤍</title>
-    <updated>2023-09-16T15:18:04+00:00</updated>
-    <content>for my fall girlies who don’t like to bake 🤍</content>
-    <link href="https://tiktok.com/@wishbonekitchen/video/7279443294847913247" rel="alternate"/>
-    <published>2023-09-16T15:18:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@wishbonekitchen/video/7279888728561028382</id>
     <title>sausage and pepps w crispy shallots and hot honey.. my hungover brain is so ✨creative✨</title>
@@ -51,5 +43,13 @@
     <content>this sound is capricorn coded</content>
     <link href="https://tiktok.com/@wishbonekitchen/video/7281274625781140766" rel="alternate"/>
     <published>2023-09-21T13:44:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@wishbonekitchen/video/7281753322694970666</id>
+    <title>No Title</title>
+    <updated>2023-09-22T20:42:01+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@wishbonekitchen/video/7281753322694970666" rel="alternate"/>
+    <published>2023-09-22T20:42:01+00:00</published>
   </entry>
 </feed>
