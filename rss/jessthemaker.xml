@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jessthemaker</id>
   <title>jessthemaker TikTok</title>
-  <updated>2023-09-13T13:19:31+00:00</updated>
+  <updated>2023-08-15T16:41:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessthemaker</subtitle>
+  <entry>
+    <id>https://tiktok.com/@jessthemaker/video/7257188972395334954</id>
+    <title>We almost had it all 💔 #manpunchingwindow #manpunchingcarwindow #manpunchingwindow #rollinginthedeep </title>
+    <updated>2023-07-18T15:59:47+00:00</updated>
+    <content>We almost had it all 💔 #manpunchingwindow #manpunchingcarwindow #manpunchingwindow #rollinginthedeep </content>
+    <link href="https://tiktok.com/@jessthemaker/video/7257188972395334954" rel="alternate"/>
+    <published>2023-07-18T15:59:47+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@jessthemaker/video/7257515644579630379</id>
     <title>Ready to crush it on your next ride? 🙌 Dave's Killer Bread makes epic Organic Snack Bars in three different flavors that will take your biking adventures to the next level! 🌟🎉  Click the link in my bio to find where you can grab some Organic Snack Bars of</title>
@@ -43,13 +51,5 @@
     <content>Easily increase the value of your home by… …adding more bikes 😜 Home many bikes per human in your household? Inspired by a comment @scottbrohagan made on a previous reel 😎 #mtbhumor #ridebikesbehappy #mtblife #mtblove #mtbgram #mtbdaily </content>
     <link href="https://tiktok.com/@jessthemaker/video/7267590131425611051" rel="alternate"/>
     <published>2023-08-15T16:41:38+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jessthemaker/video/7278299436768415019</id>
-    <title>PS. I am that friend that stalls the ride 😜   Anyone else have a hard time picking which snack to bring?   If you haven’t tried the new Dave’s Killer Bread Organic Snack Bars, click the link in my bio to find where you can grab some to try for yourself!  </title>
-    <updated>2023-09-13T13:19:31+00:00</updated>
-    <content>PS. I am that friend that stalls the ride 😜   Anyone else have a hard time picking which snack to bring?   If you haven’t tried the new Dave’s Killer Bread Organic Snack Bars, click the link in my bio to find where you can grab some to try for yourself!    I really how their bars are nice and soft, and not too sweet!     #ad #daveskillerbread #CrushIt @Dave’s Killer Bread </content>
-    <link href="https://tiktok.com/@jessthemaker/video/7278299436768415019" rel="alternate"/>
-    <published>2023-09-13T13:19:31+00:00</published>
   </entry>
 </feed>
