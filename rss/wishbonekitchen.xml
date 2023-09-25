@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@wishbonekitchen</id>
   <title>wishbonekitchen TikTok</title>
-  <updated>2023-09-23T17:42:33+00:00</updated>
+  <updated>2023-09-25T19:15:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from wishbonekitchen</subtitle>
-  <entry>
-    <id>https://tiktok.com/@wishbonekitchen/video/7280957951366516010</id>
-    <title>could eat this every day i love it sm 🫶</title>
-    <updated>2023-09-20T17:15:37+00:00</updated>
-    <content>could eat this every day i love it sm 🫶</content>
-    <link href="https://tiktok.com/@wishbonekitchen/video/7280957951366516010" rel="alternate"/>
-    <published>2023-09-20T17:15:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@wishbonekitchen/video/7281274625781140766</id>
     <title>this sound is capricorn coded</title>
@@ -51,5 +43,13 @@
     <content>go tigers </content>
     <link href="https://tiktok.com/@wishbonekitchen/video/7282078152808156462" rel="alternate"/>
     <published>2023-09-23T17:42:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@wishbonekitchen/video/7282844175224147242</id>
+    <title>No Title</title>
+    <updated>2023-09-25T19:15:11+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@wishbonekitchen/video/7282844175224147242" rel="alternate"/>
+    <published>2023-09-25T19:15:11+00:00</published>
   </entry>
 </feed>
