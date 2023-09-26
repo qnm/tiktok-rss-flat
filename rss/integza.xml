@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@integza</id>
   <title>integza TikTok</title>
-  <updated>2023-09-22T14:59:15+00:00</updated>
+  <updated>2023-09-26T09:24:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from integza</subtitle>
-  <entry>
-    <id>https://tiktok.com/@integza/video/7277926683540327712</id>
-    <title>Turning my @Dyson hairdryer into a jet engine #Dyson #JetEngine #Integza </title>
-    <updated>2023-09-12T13:12:42+00:00</updated>
-    <content>Turning my @Dyson hairdryer into a jet engine #Dyson #JetEngine #Integza </content>
-    <link href="https://tiktok.com/@integza/video/7277926683540327712" rel="alternate"/>
-    <published>2023-09-12T13:12:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@integza/video/7278691035742506272</id>
     <title>I 3D printed a compressed air engine but wait, I think I have an idea. #Integza #3DPrinting #Engineering </title>
@@ -51,5 +43,13 @@
     <content>Acrylic, brass, MDF and a nail. that's right, I'm making a combustion chamber engine. #Integza #3DPrinting #Engineering</content>
     <link href="https://tiktok.com/@integza/video/7281665002623323425" rel="alternate"/>
     <published>2023-09-22T14:59:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@integza/video/7283063043800517921</id>
+    <title>How I 3D printed a metal aerospike rocket at home #3DPrinting #Integza #Engineering </title>
+    <updated>2023-09-26T09:24:22+00:00</updated>
+    <content>How I 3D printed a metal aerospike rocket at home #3DPrinting #Integza #Engineering </content>
+    <link href="https://tiktok.com/@integza/video/7283063043800517921" rel="alternate"/>
+    <published>2023-09-26T09:24:22+00:00</published>
   </entry>
 </feed>
