@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@wishbonekitchen</id>
   <title>wishbonekitchen TikTok</title>
-  <updated>2023-09-26T21:23:22+00:00</updated>
+  <updated>2023-09-25T19:15:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from wishbonekitchen</subtitle>
+  <entry>
+    <id>https://tiktok.com/@wishbonekitchen/video/7281274625781140766</id>
+    <title>this sound is capricorn coded</title>
+    <updated>2023-09-21T13:44:25+00:00</updated>
+    <content>this sound is capricorn coded</content>
+    <link href="https://tiktok.com/@wishbonekitchen/video/7281274625781140766" rel="alternate"/>
+    <published>2023-09-21T13:44:25+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@wishbonekitchen/video/7281753322694970666</id>
     <title>No Title</title>
@@ -43,13 +51,5 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@wishbonekitchen/video/7282844175224147242" rel="alternate"/>
     <published>2023-09-25T19:15:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@wishbonekitchen/video/7283248298960457003</id>
-    <title>DIY queen </title>
-    <updated>2023-09-26T21:23:22+00:00</updated>
-    <content>DIY queen </content>
-    <link href="https://tiktok.com/@wishbonekitchen/video/7283248298960457003" rel="alternate"/>
-    <published>2023-09-26T21:23:22+00:00</published>
   </entry>
 </feed>
