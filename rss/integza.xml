@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@integza</id>
   <title>integza TikTok</title>
-  <updated>2023-09-27T10:25:39+00:00</updated>
+  <updated>2023-09-29T08:53:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from integza</subtitle>
-  <entry>
-    <id>https://tiktok.com/@integza/video/7278980250829212961</id>
-    <title>I built a pulsed rocket engine #Integza #JetEngine #3DPrinting </title>
-    <updated>2023-09-15T09:21:12+00:00</updated>
-    <content>I built a pulsed rocket engine #Integza #JetEngine #3DPrinting </content>
-    <link href="https://tiktok.com/@integza/video/7278980250829212961" rel="alternate"/>
-    <published>2023-09-15T09:21:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@integza/video/7281602394906004769</id>
     <title>Bladeless turbine built by Nikola Tesla #Integza #Tesla #Turbine </title>
@@ -51,5 +43,13 @@
     <content>I 3D printed a CO2 rocket #3DPrinting #Integza #Engineering </content>
     <link href="https://tiktok.com/@integza/video/7283449922756562209" rel="alternate"/>
     <published>2023-09-27T10:25:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@integza/video/7284168211283725601</id>
+    <title>After a false start I decided it was time to ignite this the old fashioned way. #Integza #Rocket #3DPrinting #MakerMovement #Physics </title>
+    <updated>2023-09-29T08:53:09+00:00</updated>
+    <content>After a false start I decided it was time to ignite this the old fashioned way. #Integza #Rocket #3DPrinting #MakerMovement #Physics </content>
+    <link href="https://tiktok.com/@integza/video/7284168211283725601" rel="alternate"/>
+    <published>2023-09-29T08:53:09+00:00</published>
   </entry>
 </feed>
