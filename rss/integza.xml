@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@integza</id>
   <title>integza TikTok</title>
-  <updated>2023-09-29T15:15:10.585783+00:00</updated>
+  <updated>2023-09-29T08:53:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,4 +12,44 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from integza</subtitle>
+  <entry>
+    <id>https://tiktok.com/@integza/video/7281602394906004769</id>
+    <title>Bladeless turbine built by Nikola Tesla #Integza #Tesla #Turbine </title>
+    <updated>2023-09-22T10:56:20+00:00</updated>
+    <content>Bladeless turbine built by Nikola Tesla #Integza #Tesla #Turbine </content>
+    <link href="https://tiktok.com/@integza/video/7281602394906004769" rel="alternate"/>
+    <published>2023-09-22T10:56:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@integza/video/7281665002623323425</id>
+    <title>Acrylic, brass, MDF and a nail. that's right, I'm making a combustion chamber engine. #Integza #3DPrinting #Engineering</title>
+    <updated>2023-09-22T14:59:15+00:00</updated>
+    <content>Acrylic, brass, MDF and a nail. that's right, I'm making a combustion chamber engine. #Integza #3DPrinting #Engineering</content>
+    <link href="https://tiktok.com/@integza/video/7281665002623323425" rel="alternate"/>
+    <published>2023-09-22T14:59:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@integza/video/7283063043800517921</id>
+    <title>How I 3D printed a metal aerospike rocket at home #3DPrinting #Integza #Engineering </title>
+    <updated>2023-09-26T09:24:22+00:00</updated>
+    <content>How I 3D printed a metal aerospike rocket at home #3DPrinting #Integza #Engineering </content>
+    <link href="https://tiktok.com/@integza/video/7283063043800517921" rel="alternate"/>
+    <published>2023-09-26T09:24:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@integza/video/7283449922756562209</id>
+    <title>I 3D printed a CO2 rocket #3DPrinting #Integza #Engineering </title>
+    <updated>2023-09-27T10:25:39+00:00</updated>
+    <content>I 3D printed a CO2 rocket #3DPrinting #Integza #Engineering </content>
+    <link href="https://tiktok.com/@integza/video/7283449922756562209" rel="alternate"/>
+    <published>2023-09-27T10:25:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@integza/video/7284168211283725601</id>
+    <title>After a false start I decided it was time to ignite this the old fashioned way. #Integza #Rocket #3DPrinting #MakerMovement #Physics </title>
+    <updated>2023-09-29T08:53:09+00:00</updated>
+    <content>After a false start I decided it was time to ignite this the old fashioned way. #Integza #Rocket #3DPrinting #MakerMovement #Physics </content>
+    <link href="https://tiktok.com/@integza/video/7284168211283725601" rel="alternate"/>
+    <published>2023-09-29T08:53:09+00:00</published>
+  </entry>
 </feed>
