@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jessthemaker</id>
   <title>jessthemaker TikTok</title>
-  <updated>2023-10-01T22:57:00+00:00</updated>
+  <updated>2023-10-03T03:37:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessthemaker</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessthemaker/video/7263183998472424746</id>
-    <title>2 years later… still choosing bikes over our home renovation 🤣 What do you put on the back burner so you can spend more time on bikes 😍?? Ps. dark towels make great black out curtains. You’re welcome.</title>
-    <updated>2023-08-03T19:43:39+00:00</updated>
-    <content>2 years later… still choosing bikes over our home renovation 🤣 What do you put on the back burner so you can spend more time on bikes 😍?? Ps. dark towels make great black out curtains. You’re welcome.</content>
-    <link href="https://tiktok.com/@jessthemaker/video/7263183998472424746" rel="alternate"/>
-    <published>2023-08-03T19:43:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessthemaker/video/7267590131425611051</id>
     <title>Easily increase the value of your home by… …adding more bikes 😜 Home many bikes per human in your household? Inspired by a comment @scottbrohagan made on a previous reel 😎 #mtbhumor #ridebikesbehappy #mtblife #mtblove #mtbgram #mtbdaily </title>
@@ -51,5 +43,13 @@
     <content>Nobody’s gonna know 🤫 I love some good hacks and this one from @inmyseams was so amazing 😜 especially after those sweaty rides where your helmet is drenched in sweat. Take a liner and voila! 🤌 What other hacks have you tried on and off the trail? #mtbhumor #ridebikes #ridebikesbehappy #ridebikeshavefunfeelgood #mtbgram #mtbdaily</content>
     <link href="https://tiktok.com/@jessthemaker/video/7285127860388465950" rel="alternate"/>
     <published>2023-10-01T22:57:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessthemaker/video/7285571323982548254</id>
+    <title>Am I the only one? 😅 I do enjoy a good hike from time to time, but usually it just makes me miss my mountain bike. 🤷‍♀️ #mtbhumor #mtbgram #getoutside #getoutsideandplay #ridebikes #mtblifestyle #mtbdaily </title>
+    <updated>2023-10-03T03:37:59+00:00</updated>
+    <content>Am I the only one? 😅 I do enjoy a good hike from time to time, but usually it just makes me miss my mountain bike. 🤷‍♀️ #mtbhumor #mtbgram #getoutside #getoutsideandplay #ridebikes #mtblifestyle #mtbdaily </content>
+    <link href="https://tiktok.com/@jessthemaker/video/7285571323982548254" rel="alternate"/>
+    <published>2023-10-03T03:37:59+00:00</published>
   </entry>
 </feed>
