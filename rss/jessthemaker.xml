@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jessthemaker</id>
   <title>jessthemaker TikTok</title>
-  <updated>2023-10-03T03:37:59+00:00</updated>
+  <updated>2023-10-03T22:20:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessthemaker</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessthemaker/video/7267590131425611051</id>
-    <title>Easily increase the value of your home by… …adding more bikes 😜 Home many bikes per human in your household? Inspired by a comment @scottbrohagan made on a previous reel 😎 #mtbhumor #ridebikesbehappy #mtblife #mtblove #mtbgram #mtbdaily </title>
-    <updated>2023-08-15T16:41:38+00:00</updated>
-    <content>Easily increase the value of your home by… …adding more bikes 😜 Home many bikes per human in your household? Inspired by a comment @scottbrohagan made on a previous reel 😎 #mtbhumor #ridebikesbehappy #mtblife #mtblove #mtbgram #mtbdaily </content>
-    <link href="https://tiktok.com/@jessthemaker/video/7267590131425611051" rel="alternate"/>
-    <published>2023-08-15T16:41:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessthemaker/video/7278299436768415019</id>
     <title>PS. I am that friend that stalls the ride 😜   Anyone else have a hard time picking which snack to bring?   If you haven’t tried the new Dave’s Killer Bread Organic Snack Bars, click the link in my bio to find where you can grab some to try for yourself!  </title>
@@ -51,5 +43,13 @@
     <content>Am I the only one? 😅 I do enjoy a good hike from time to time, but usually it just makes me miss my mountain bike. 🤷‍♀️ #mtbhumor #mtbgram #getoutside #getoutsideandplay #ridebikes #mtblifestyle #mtbdaily </content>
     <link href="https://tiktok.com/@jessthemaker/video/7285571323982548254" rel="alternate"/>
     <published>2023-10-03T03:37:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessthemaker/video/7285860671932189983</id>
+    <title>What other crafty ways have you taken a selfie on trail? 🙃 Show me your trailside tripod selfies using the hashtag #trailsidetripod 😍 I originally featured the trailside tripod in my hair tie hacks reel and it’s by far my favorite! Enjoy 😉  Glasses: @smit</title>
+    <updated>2023-10-03T22:20:42+00:00</updated>
+    <content>What other crafty ways have you taken a selfie on trail? 🙃 Show me your trailside tripod selfies using the hashtag #trailsidetripod 😍 I originally featured the trailside tripod in my hair tie hacks reel and it’s by far my favorite! Enjoy 😉  Glasses: @smithoptics Bobcats Helmet: @smithoptics Forefront Shirt: @vanacollective.mtb  Hip Pack: @fromhighabove  Hair tie: @goodyhair  #mtbgram #mtblife #mtbdaily #ridebikesbehappy #bikesarefun </content>
+    <link href="https://tiktok.com/@jessthemaker/video/7285860671932189983" rel="alternate"/>
+    <published>2023-10-03T22:20:42+00:00</published>
   </entry>
 </feed>
