@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@integza</id>
   <title>integza TikTok</title>
-  <updated>2023-10-03T08:42:26+00:00</updated>
+  <updated>2023-10-04T09:16:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from integza</subtitle>
-  <entry>
-    <id>https://tiktok.com/@integza/video/7281665002623323425</id>
-    <title>Acrylic, brass, MDF and a nail. that's right, I'm making a combustion chamber engine. #Integza #3DPrinting #Engineering</title>
-    <updated>2023-09-22T14:59:15+00:00</updated>
-    <content>Acrylic, brass, MDF and a nail. that's right, I'm making a combustion chamber engine. #Integza #3DPrinting #Engineering</content>
-    <link href="https://tiktok.com/@integza/video/7281665002623323425" rel="alternate"/>
-    <published>2023-09-22T14:59:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@integza/video/7283063043800517921</id>
     <title>How I 3D printed a metal aerospike rocket at home #3DPrinting #Integza #Engineering </title>
@@ -51,5 +43,13 @@
     <content>Printing a 106 year old invention #Integza #3DPrinting #RocketEngine </content>
     <link href="https://tiktok.com/@integza/video/7285649794377256224" rel="alternate"/>
     <published>2023-10-03T08:42:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@integza/video/7286029537597492512</id>
+    <title>The pulse jet is my favourite jet in the jet family, and here's why. #Integza #3DPrinting #RocketEngine </title>
+    <updated>2023-10-04T09:16:01+00:00</updated>
+    <content>The pulse jet is my favourite jet in the jet family, and here's why. #Integza #3DPrinting #RocketEngine </content>
+    <link href="https://tiktok.com/@integza/video/7286029537597492512" rel="alternate"/>
+    <published>2023-10-04T09:16:01+00:00</published>
   </entry>
 </feed>
