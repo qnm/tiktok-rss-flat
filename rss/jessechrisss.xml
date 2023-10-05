@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jessechrisss</id>
   <title>jessechrisss TikTok</title>
-  <updated>2023-09-17T16:08:00+00:00</updated>
+  <updated>2023-09-23T14:23:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessechrisss</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessechrisss/video/7253848889931926790</id>
-    <title>Not now Jake 😩 Check out Subway Studio AR in-game now! #SubwaySurfers #SubwayStudios</title>
-    <updated>2023-07-09T15:58:29+00:00</updated>
-    <content>Not now Jake 😩 Check out Subway Studio AR in-game now! #SubwaySurfers #SubwayStudios</content>
-    <link href="https://tiktok.com/@jessechrisss/video/7253848889931926790" rel="alternate"/>
-    <published>2023-07-09T15:58:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessechrisss/video/7256070839114665222</id>
     <title>A little twist on this transition </title>
@@ -51,5 +43,13 @@
     <content>Bella is my crush 🤫</content>
     <link href="https://tiktok.com/@jessechrisss/video/7279827301393730821" rel="alternate"/>
     <published>2023-09-17T16:08:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessechrisss/video/7282027002897386757</id>
+    <title>I can almost hear his voice 🙏 @Zach King  </title>
+    <updated>2023-09-23T14:23:57+00:00</updated>
+    <content>I can almost hear his voice 🙏 @Zach King  </content>
+    <link href="https://tiktok.com/@jessechrisss/video/7282027002897386757" rel="alternate"/>
+    <published>2023-09-23T14:23:57+00:00</published>
   </entry>
 </feed>
