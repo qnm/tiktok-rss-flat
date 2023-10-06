@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@xylafoxlin</id>
   <title>xylafoxlin TikTok</title>
-  <updated>2023-10-05T18:55:45+00:00</updated>
+  <updated>2023-10-06T00:24:38.051168+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,44 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from xylafoxlin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@xylafoxlin/video/7266116430200917290</id>
-    <title>Got a bunch of complaints that the launch sequence had music and editing in my full length video- so here’s a far away iphone clip that adds a lot of perspective to the speed and trajectory of Spite! #carbonfiber #rocketry #highpowerrocket </title>
-    <updated>2023-08-11T17:23:03+00:00</updated>
-    <content>Got a bunch of complaints that the launch sequence had music and editing in my full length video- so here’s a far away iphone clip that adds a lot of perspective to the speed and trajectory of Spite! #carbonfiber #rocketry #highpowerrocket </content>
-    <link href="https://tiktok.com/@xylafoxlin/video/7266116430200917290" rel="alternate"/>
-    <published>2023-08-11T17:23:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@xylafoxlin/video/7273953814837824810</id>
-    <title>This was one of the longest and most challenging builds of my career- was it worth it?? Meet “Next Thursday” the 10 foot dinghy i built as a gift for the @centerforwoodenboats in Seattle #sailboat #boatbuilder </title>
-    <updated>2023-09-01T20:15:57+00:00</updated>
-    <content>This was one of the longest and most challenging builds of my career- was it worth it?? Meet “Next Thursday” the 10 foot dinghy i built as a gift for the @centerforwoodenboats in Seattle #sailboat #boatbuilder </content>
-    <link href="https://tiktok.com/@xylafoxlin/video/7273953814837824810" rel="alternate"/>
-    <published>2023-09-01T20:15:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@xylafoxlin/video/7275413269714636074</id>
-    <title>MOTOR DEINTEGRATION feat. @BPS.space! Honestly we psychologically prepped ourselves for a much worse evening than ended up happening 😅 incredibly grateful to #GaragePole, i gotta get me one of those </title>
-    <updated>2023-09-05T18:39:23+00:00</updated>
-    <content>MOTOR DEINTEGRATION feat. @BPS.space! Honestly we psychologically prepped ourselves for a much worse evening than ended up happening 😅 incredibly grateful to #GaragePole, i gotta get me one of those </content>
-    <link href="https://tiktok.com/@xylafoxlin/video/7275413269714636074" rel="alternate"/>
-    <published>2023-09-05T18:39:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@xylafoxlin/video/7286201687084256558</id>
-    <title>Look, i never said i make good decisions but in the future i should maybe not be trusted with 12 foot skeletons… HAPPY SPOOKY SZN 👻☠️🎃</title>
-    <updated>2023-10-04T20:24:06+00:00</updated>
-    <content>Look, i never said i make good decisions but in the future i should maybe not be trusted with 12 foot skeletons… HAPPY SPOOKY SZN 👻☠️🎃</content>
-    <link href="https://tiktok.com/@xylafoxlin/video/7286201687084256558" rel="alternate"/>
-    <published>2023-10-04T20:24:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@xylafoxlin/video/7286549992792231214</id>
-    <title>Replying to @rustorium it doodoo be like that sometimes 🤷🏻‍♀️🚀 #happyspookyseason #spookyseason #highpowerrocketry #rocket </title>
-    <updated>2023-10-05T18:55:45+00:00</updated>
-    <content>Replying to @rustorium it doodoo be like that sometimes 🤷🏻‍♀️🚀 #happyspookyseason #spookyseason #highpowerrocketry #rocket </content>
-    <link href="https://tiktok.com/@xylafoxlin/video/7286549992792231214" rel="alternate"/>
-    <published>2023-10-05T18:55:45+00:00</published>
-  </entry>
 </feed>
