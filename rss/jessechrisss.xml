@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jessechrisss</id>
   <title>jessechrisss TikTok</title>
-  <updated>2023-09-23T14:23:57+00:00</updated>
+  <updated>2023-10-07T16:21:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessechrisss</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessechrisss/video/7256070839114665222</id>
-    <title>A little twist on this transition </title>
-    <updated>2023-07-15T15:40:46+00:00</updated>
-    <content>A little twist on this transition </content>
-    <link href="https://tiktok.com/@jessechrisss/video/7256070839114665222" rel="alternate"/>
-    <published>2023-07-15T15:40:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessechrisss/video/7273887013017849093</id>
     <title>I call these my “sour shades" #ad #SourPatchKidsCanada  #SourSweetGone </title>
@@ -51,5 +43,13 @@
     <content>I can almost hear his voice 🙏 @Zach King  </content>
     <link href="https://tiktok.com/@jessechrisss/video/7282027002897386757" rel="alternate"/>
     <published>2023-09-23T14:23:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessechrisss/video/7287252502427356421</id>
+    <title>Never. (Credit to @WOESHI👯 for teaching me how to chad 🗿)</title>
+    <updated>2023-10-07T16:21:34+00:00</updated>
+    <content>Never. (Credit to @WOESHI👯 for teaching me how to chad 🗿)</content>
+    <link href="https://tiktok.com/@jessechrisss/video/7287252502427356421" rel="alternate"/>
+    <published>2023-10-07T16:21:34+00:00</published>
   </entry>
 </feed>
