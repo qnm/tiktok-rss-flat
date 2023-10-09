@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@wishbonekitchen</id>
   <title>wishbonekitchen TikTok</title>
-  <updated>2023-10-04T14:40:45+00:00</updated>
+  <updated>2023-10-09T14:36:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from wishbonekitchen</subtitle>
-  <entry>
-    <id>https://tiktok.com/@wishbonekitchen/video/7283959065099783455</id>
-    <title>Autumn Variations, coming to a kitchen near you 🍂🎶🫵</title>
-    <updated>2023-09-28T19:21:29+00:00</updated>
-    <content>Autumn Variations, coming to a kitchen near you 🍂🎶🫵</content>
-    <link href="https://tiktok.com/@wishbonekitchen/video/7283959065099783455" rel="alternate"/>
-    <published>2023-09-28T19:21:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@wishbonekitchen/video/7284631983685127454</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>@Chris Olsen wishbone cooking class is now in session </content>
     <link href="https://tiktok.com/@wishbonekitchen/video/7286113168689040671" rel="alternate"/>
     <published>2023-10-04T14:40:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@wishbonekitchen/video/7287967571876318494</id>
+    <title>apple chicken salad season 😭🫶🍂🍎</title>
+    <updated>2023-10-09T14:36:32+00:00</updated>
+    <content>apple chicken salad season 😭🫶🍂🍎</content>
+    <link href="https://tiktok.com/@wishbonekitchen/video/7287967571876318494" rel="alternate"/>
+    <published>2023-10-09T14:36:32+00:00</published>
   </entry>
 </feed>
