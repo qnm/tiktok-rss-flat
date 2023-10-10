@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@xylafoxlin</id>
   <title>xylafoxlin TikTok</title>
-  <updated>2023-10-07T06:55:54+00:00</updated>
+  <updated>2023-10-10T08:19:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from xylafoxlin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@xylafoxlin/video/7275413269714636074</id>
-    <title>MOTOR DEINTEGRATION feat. @BPS.space! Honestly we psychologically prepped ourselves for a much worse evening than ended up happening 😅 incredibly grateful to #GaragePole, i gotta get me one of those </title>
-    <updated>2023-09-05T18:39:23+00:00</updated>
-    <content>MOTOR DEINTEGRATION feat. @BPS.space! Honestly we psychologically prepped ourselves for a much worse evening than ended up happening 😅 incredibly grateful to #GaragePole, i gotta get me one of those </content>
-    <link href="https://tiktok.com/@xylafoxlin/video/7275413269714636074" rel="alternate"/>
-    <published>2023-09-05T18:39:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@xylafoxlin/video/7286201687084256558</id>
     <title>Look, i never said i make good decisions but in the future i should maybe not be trusted with 12 foot skeletons… HAPPY SPOOKY SZN 👻☠️🎃</title>
@@ -51,5 +43,13 @@
     <content>Replying to @🐹 Keely 🐹 personally my favorite part is when he leaves his legs behind 😅 #happyspookyseason </content>
     <link href="https://tiktok.com/@xylafoxlin/video/7287106531567553838" rel="alternate"/>
     <published>2023-10-07T06:55:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@xylafoxlin/video/7288241487379451182</id>
+    <title>We’ve all be there amirite? Thank you so much for all the love on this project! #happyspookyseason #highpowerrocketry #VozDosCriadores #screammovie </title>
+    <updated>2023-10-10T08:19:31+00:00</updated>
+    <content>We’ve all be there amirite? Thank you so much for all the love on this project! #happyspookyseason #highpowerrocketry #VozDosCriadores #screammovie </content>
+    <link href="https://tiktok.com/@xylafoxlin/video/7288241487379451182" rel="alternate"/>
+    <published>2023-10-10T08:19:31+00:00</published>
   </entry>
 </feed>

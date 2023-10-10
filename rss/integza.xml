@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@integza</id>
   <title>integza TikTok</title>
-  <updated>2023-10-04T09:16:01+00:00</updated>
+  <updated>2023-10-10T08:39:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from integza</subtitle>
-  <entry>
-    <id>https://tiktok.com/@integza/video/7283063043800517921</id>
-    <title>How I 3D printed a metal aerospike rocket at home #3DPrinting #Integza #Engineering </title>
-    <updated>2023-09-26T09:24:22+00:00</updated>
-    <content>How I 3D printed a metal aerospike rocket at home #3DPrinting #Integza #Engineering </content>
-    <link href="https://tiktok.com/@integza/video/7283063043800517921" rel="alternate"/>
-    <published>2023-09-26T09:24:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@integza/video/7283449922756562209</id>
     <title>I 3D printed a CO2 rocket #3DPrinting #Integza #Engineering </title>
@@ -51,5 +43,13 @@
     <content>The pulse jet is my favourite jet in the jet family, and here's why. #Integza #3DPrinting #RocketEngine </content>
     <link href="https://tiktok.com/@integza/video/7286029537597492512" rel="alternate"/>
     <published>2023-10-04T09:16:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@integza/video/7288246620053867809</id>
+    <title>For the third time I'm 3D printing a Tesla turbine, but will it work? #Integza #3DPrinting #Tesla </title>
+    <updated>2023-10-10T08:39:21+00:00</updated>
+    <content>For the third time I'm 3D printing a Tesla turbine, but will it work? #Integza #3DPrinting #Tesla </content>
+    <link href="https://tiktok.com/@integza/video/7288246620053867809" rel="alternate"/>
+    <published>2023-10-10T08:39:21+00:00</published>
   </entry>
 </feed>
