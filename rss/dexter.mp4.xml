@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dexter.mp4</id>
   <title>dexter.mp4 TikTok</title>
-  <updated>2023-10-11T22:10:03+00:00</updated>
+  <updated>2023-10-12T22:14:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dexter.mp4</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dexter.mp4/video/7287743992941268267</id>
-    <title>Brain-computer interfaces! #science #technology #learnontiktok #learneclecticthings #greenscreenvideo #greenscreen </title>
-    <updated>2023-10-09T00:09:05+00:00</updated>
-    <content>Brain-computer interfaces! #science #technology #learnontiktok #learneclecticthings #greenscreenvideo #greenscreen </content>
-    <link href="https://tiktok.com/@dexter.mp4/video/7287743992941268267" rel="alternate"/>
-    <published>2023-10-09T00:09:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dexter.mp4/video/7288080907683122478</id>
     <title>The unexpected hanging paradox! #learnontiktok #learneclecticthings </title>
@@ -51,5 +43,13 @@
     <content>Replying to @B RPS gambits!  #games #learnontiktok #learneclecticthings </content>
     <link href="https://tiktok.com/@dexter.mp4/video/7288826603885415723" rel="alternate"/>
     <published>2023-10-11T22:10:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dexter.mp4/video/7289198747626523946</id>
+    <title>Are tin foil hats effective?#greenscreen </title>
+    <updated>2023-10-12T22:14:14+00:00</updated>
+    <content>Are tin foil hats effective?#greenscreen </content>
+    <link href="https://tiktok.com/@dexter.mp4/video/7289198747626523946" rel="alternate"/>
+    <published>2023-10-12T22:14:14+00:00</published>
   </entry>
 </feed>
