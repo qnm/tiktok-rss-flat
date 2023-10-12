@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@dexter.mp4</id>
+  <title>dexter.mp4 TikTok</title>
+  <updated>2023-10-11T22:10:03+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://qnm.github.io/tiktok-rss-flat/rss/dexter.mp4.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from dexter.mp4</subtitle>
+  <entry>
+    <id>https://tiktok.com/@dexter.mp4/video/7287743992941268267</id>
+    <title>Brain-computer interfaces! #science #technology #learnontiktok #learneclecticthings #greenscreenvideo #greenscreen </title>
+    <updated>2023-10-09T00:09:05+00:00</updated>
+    <content>Brain-computer interfaces! #science #technology #learnontiktok #learneclecticthings #greenscreenvideo #greenscreen </content>
+    <link href="https://tiktok.com/@dexter.mp4/video/7287743992941268267" rel="alternate"/>
+    <published>2023-10-09T00:09:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dexter.mp4/video/7288080907683122478</id>
+    <title>The unexpected hanging paradox! #learnontiktok #learneclecticthings </title>
+    <updated>2023-10-09T21:56:24+00:00</updated>
+    <content>The unexpected hanging paradox! #learnontiktok #learneclecticthings </content>
+    <link href="https://tiktok.com/@dexter.mp4/video/7288080907683122478" rel="alternate"/>
+    <published>2023-10-09T21:56:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dexter.mp4/video/7288462108419706154</id>
+    <title>Types of waterfalls! #geography #science #learnontiktok #learneclecticthings </title>
+    <updated>2023-10-10T22:35:39+00:00</updated>
+    <content>Types of waterfalls! #geography #science #learnontiktok #learneclecticthings </content>
+    <link href="https://tiktok.com/@dexter.mp4/video/7288462108419706154" rel="alternate"/>
+    <published>2023-10-10T22:35:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dexter.mp4/video/7288790483021614379</id>
+    <title>Rock paper scissors! #science #learnontiktok #learneclecticthings #games </title>
+    <updated>2023-10-11T19:49:54+00:00</updated>
+    <content>Rock paper scissors! #science #learnontiktok #learneclecticthings #games </content>
+    <link href="https://tiktok.com/@dexter.mp4/video/7288790483021614379" rel="alternate"/>
+    <published>2023-10-11T19:49:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dexter.mp4/video/7288826603885415723</id>
+    <title>Replying to @B RPS gambits!  #games #learnontiktok #learneclecticthings </title>
+    <updated>2023-10-11T22:10:03+00:00</updated>
+    <content>Replying to @B RPS gambits!  #games #learnontiktok #learneclecticthings </content>
+    <link href="https://tiktok.com/@dexter.mp4/video/7288826603885415723" rel="alternate"/>
+    <published>2023-10-11T22:10:03+00:00</published>
+  </entry>
+</feed>
