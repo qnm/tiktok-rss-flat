@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@integza</id>
   <title>integza TikTok</title>
-  <updated>2023-10-12T13:48:40+00:00</updated>
+  <updated>2023-10-13T15:53:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from integza</subtitle>
-  <entry>
-    <id>https://tiktok.com/@integza/video/7285649794377256224</id>
-    <title>Printing a 106 year old invention #Integza #3DPrinting #RocketEngine </title>
-    <updated>2023-10-03T08:42:26+00:00</updated>
-    <content>Printing a 106 year old invention #Integza #3DPrinting #RocketEngine </content>
-    <link href="https://tiktok.com/@integza/video/7285649794377256224" rel="alternate"/>
-    <published>2023-10-03T08:42:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@integza/video/7286029537597492512</id>
     <title>The pulse jet is my favourite jet in the jet family, and here's why. #Integza #3DPrinting #RocketEngine </title>
@@ -51,5 +43,13 @@
     <content>Elephants toothpaste but more aggressive! #integza #elephantstoothpaste #chemistry </content>
     <link href="https://tiktok.com/@integza/video/7289068520653081889" rel="alternate"/>
     <published>2023-10-12T13:48:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@integza/video/7289471800465952033</id>
+    <title>Please God of thermodynamics, help me get this engine to self sustain the combustion without burning my house! #engineering #3dprinting #combustion </title>
+    <updated>2023-10-13T15:53:35+00:00</updated>
+    <content>Please God of thermodynamics, help me get this engine to self sustain the combustion without burning my house! #engineering #3dprinting #combustion </content>
+    <link href="https://tiktok.com/@integza/video/7289471800465952033" rel="alternate"/>
+    <published>2023-10-13T15:53:35+00:00</published>
   </entry>
 </feed>
