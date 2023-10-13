@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@wishbonekitchen</id>
   <title>wishbonekitchen TikTok</title>
-  <updated>2023-10-13T18:16:35.686013+00:00</updated>
+  <updated>2023-10-09T14:36:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,4 +12,44 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from wishbonekitchen</subtitle>
+  <entry>
+    <id>https://tiktok.com/@wishbonekitchen/video/7284631983685127454</id>
+    <title>No Title</title>
+    <updated>2023-09-30T14:52:47+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@wishbonekitchen/video/7284631983685127454" rel="alternate"/>
+    <published>2023-09-30T14:52:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@wishbonekitchen/video/7285465025815301406</id>
+    <title>No Title</title>
+    <updated>2023-10-02T20:45:30+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@wishbonekitchen/video/7285465025815301406" rel="alternate"/>
+    <published>2023-10-02T20:45:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@wishbonekitchen/video/7285808991047781662</id>
+    <title>rainy yet cozy work day🤍 my productivity has been at an all time high thanks to my Dell OptiPlex All-in-One #DellForBiz #IntelvPro</title>
+    <updated>2023-10-03T19:00:14+00:00</updated>
+    <content>rainy yet cozy work day🤍 my productivity has been at an all time high thanks to my Dell OptiPlex All-in-One #DellForBiz #IntelvPro</content>
+    <link href="https://tiktok.com/@wishbonekitchen/video/7285808991047781662" rel="alternate"/>
+    <published>2023-10-03T19:00:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@wishbonekitchen/video/7286113168689040671</id>
+    <title>@Chris Olsen wishbone cooking class is now in session </title>
+    <updated>2023-10-04T14:40:45+00:00</updated>
+    <content>@Chris Olsen wishbone cooking class is now in session </content>
+    <link href="https://tiktok.com/@wishbonekitchen/video/7286113168689040671" rel="alternate"/>
+    <published>2023-10-04T14:40:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@wishbonekitchen/video/7287967571876318494</id>
+    <title>apple chicken salad season 😭🫶🍂🍎</title>
+    <updated>2023-10-09T14:36:32+00:00</updated>
+    <content>apple chicken salad season 😭🫶🍂🍎</content>
+    <link href="https://tiktok.com/@wishbonekitchen/video/7287967571876318494" rel="alternate"/>
+    <published>2023-10-09T14:36:32+00:00</published>
+  </entry>
 </feed>
