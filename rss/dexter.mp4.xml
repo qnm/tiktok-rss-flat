@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dexter.mp4</id>
   <title>dexter.mp4 TikTok</title>
-  <updated>2023-10-13T22:09:08+00:00</updated>
+  <updated>2023-10-14T18:55:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dexter.mp4</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dexter.mp4/video/7288462108419706154</id>
-    <title>Types of waterfalls! #geography #science #learnontiktok #learneclecticthings </title>
-    <updated>2023-10-10T22:35:39+00:00</updated>
-    <content>Types of waterfalls! #geography #science #learnontiktok #learneclecticthings </content>
-    <link href="https://tiktok.com/@dexter.mp4/video/7288462108419706154" rel="alternate"/>
-    <published>2023-10-10T22:35:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dexter.mp4/video/7288790483021614379</id>
     <title>Rock paper scissors! #science #learnontiktok #learneclecticthings #games </title>
@@ -51,5 +43,13 @@
     <content>Replying to @Emma Carter The case of the dissapearing teaspoons!  #science #learnontiktok #greenscreen </content>
     <link href="https://tiktok.com/@dexter.mp4/video/7289568540686912811" rel="alternate"/>
     <published>2023-10-13T22:09:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dexter.mp4/video/7289889803301096746</id>
+    <title>Whent eclipse and satalite hunting with my roomate Joe!  #eclipse #radio #satalite #learneclecticthings </title>
+    <updated>2023-10-14T18:55:48+00:00</updated>
+    <content>Whent eclipse and satalite hunting with my roomate Joe!  #eclipse #radio #satalite #learneclecticthings </content>
+    <link href="https://tiktok.com/@dexter.mp4/video/7289889803301096746" rel="alternate"/>
+    <published>2023-10-14T18:55:48+00:00</published>
   </entry>
 </feed>
