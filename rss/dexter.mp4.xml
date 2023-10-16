@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dexter.mp4</id>
   <title>dexter.mp4 TikTok</title>
-  <updated>2023-10-15T21:10:05+00:00</updated>
+  <updated>2023-10-16T22:45:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dexter.mp4</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dexter.mp4/video/7288826603885415723</id>
-    <title>Replying to @B RPS gambits!  #games #learnontiktok #learneclecticthings </title>
-    <updated>2023-10-11T22:10:03+00:00</updated>
-    <content>Replying to @B RPS gambits!  #games #learnontiktok #learneclecticthings </content>
-    <link href="https://tiktok.com/@dexter.mp4/video/7288826603885415723" rel="alternate"/>
-    <published>2023-10-11T22:10:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dexter.mp4/video/7289198747626523946</id>
     <title>Are tin foil hats effective?#greenscreen </title>
@@ -51,5 +43,13 @@
     <content>The centipede game!  #gametheory #learnontiktok #learneclecticthings </content>
     <link href="https://tiktok.com/@dexter.mp4/video/7290295494503402795" rel="alternate"/>
     <published>2023-10-15T21:10:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dexter.mp4/video/7290691061708688686</id>
+    <title>Replying to @Scott Matthews The missing sock problem! #science #learnontiktok #learneclecticthings </title>
+    <updated>2023-10-16T22:45:10+00:00</updated>
+    <content>Replying to @Scott Matthews The missing sock problem! #science #learnontiktok #learneclecticthings </content>
+    <link href="https://tiktok.com/@dexter.mp4/video/7290691061708688686" rel="alternate"/>
+    <published>2023-10-16T22:45:10+00:00</published>
   </entry>
 </feed>
