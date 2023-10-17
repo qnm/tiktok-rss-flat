@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@wishbonekitchen</id>
   <title>wishbonekitchen TikTok</title>
-  <updated>2023-10-16T22:02:08+00:00</updated>
+  <updated>2023-10-17T22:48:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from wishbonekitchen</subtitle>
-  <entry>
-    <id>https://tiktok.com/@wishbonekitchen/video/7285808991047781662</id>
-    <title>rainy yet cozy work day🤍 my productivity has been at an all time high thanks to my Dell OptiPlex All-in-One #DellForBiz #IntelvPro</title>
-    <updated>2023-10-03T19:00:14+00:00</updated>
-    <content>rainy yet cozy work day🤍 my productivity has been at an all time high thanks to my Dell OptiPlex All-in-One #DellForBiz #IntelvPro</content>
-    <link href="https://tiktok.com/@wishbonekitchen/video/7285808991047781662" rel="alternate"/>
-    <published>2023-10-03T19:00:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@wishbonekitchen/video/7286113168689040671</id>
     <title>@Chris Olsen wishbone cooking class is now in session </title>
@@ -51,5 +43,13 @@
     <content>the sky has been showing off lately 🧘‍♀️</content>
     <link href="https://tiktok.com/@wishbonekitchen/video/7290680002813709599" rel="alternate"/>
     <published>2023-10-16T22:02:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@wishbonekitchen/video/7291063081839447326</id>
+    <title>digital rest stop if you need a long video to play while you eat or do your chores </title>
+    <updated>2023-10-17T22:48:36+00:00</updated>
+    <content>digital rest stop if you need a long video to play while you eat or do your chores </content>
+    <link href="https://tiktok.com/@wishbonekitchen/video/7291063081839447326" rel="alternate"/>
+    <published>2023-10-17T22:48:36+00:00</published>
   </entry>
 </feed>

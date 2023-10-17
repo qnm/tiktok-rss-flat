@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dexter.mp4</id>
   <title>dexter.mp4 TikTok</title>
-  <updated>2023-10-16T22:45:10+00:00</updated>
+  <updated>2023-10-17T22:38:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dexter.mp4</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dexter.mp4/video/7289198747626523946</id>
-    <title>Are tin foil hats effective?#greenscreen </title>
-    <updated>2023-10-12T22:14:14+00:00</updated>
-    <content>Are tin foil hats effective?#greenscreen </content>
-    <link href="https://tiktok.com/@dexter.mp4/video/7289198747626523946" rel="alternate"/>
-    <published>2023-10-12T22:14:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dexter.mp4/video/7289568540686912811</id>
     <title>Replying to @Emma Carter The case of the dissapearing teaspoons!  #science #learnontiktok #greenscreen </title>
@@ -51,5 +43,13 @@
     <content>Replying to @Scott Matthews The missing sock problem! #science #learnontiktok #learneclecticthings </content>
     <link href="https://tiktok.com/@dexter.mp4/video/7290691061708688686" rel="alternate"/>
     <published>2023-10-16T22:45:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dexter.mp4/video/7291060579458944298</id>
+    <title>Halley and Newton! #science #history #learnontiktok #learneclecticthings </title>
+    <updated>2023-10-17T22:38:55+00:00</updated>
+    <content>Halley and Newton! #science #history #learnontiktok #learneclecticthings </content>
+    <link href="https://tiktok.com/@dexter.mp4/video/7291060579458944298" rel="alternate"/>
+    <published>2023-10-17T22:38:55+00:00</published>
   </entry>
 </feed>
