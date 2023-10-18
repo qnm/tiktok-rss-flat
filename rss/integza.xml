@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@integza</id>
   <title>integza TikTok</title>
-  <updated>2023-10-16T16:27:23+00:00</updated>
+  <updated>2023-10-18T10:46:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from integza</subtitle>
-  <entry>
-    <id>https://tiktok.com/@integza/video/7288246620053867809</id>
-    <title>For the third time I'm 3D printing a Tesla turbine, but will it work? #Integza #3DPrinting #Tesla </title>
-    <updated>2023-10-10T08:39:21+00:00</updated>
-    <content>For the third time I'm 3D printing a Tesla turbine, but will it work? #Integza #3DPrinting #Tesla </content>
-    <link href="https://tiktok.com/@integza/video/7288246620053867809" rel="alternate"/>
-    <published>2023-10-10T08:39:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@integza/video/7288261203275566369</id>
     <title>We did it guys ! THANK YOU SO MUCH! #integza #millionsubscribers #milestone </title>
@@ -51,5 +43,13 @@
     <content>Building Nikola Tesla's bladeless turbine #3dprinting #integza #engineering #tesla </content>
     <link href="https://tiktok.com/@integza/video/7290593756582104353" rel="alternate"/>
     <published>2023-10-16T16:27:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@integza/video/7291248204631379232</id>
+    <title>The best way to create a better future is to learn from the past, so the most important question you can ask about the steam engine is, how does it work? #integza #steamengine #tesla #makermovement </title>
+    <updated>2023-10-18T10:46:59+00:00</updated>
+    <content>The best way to create a better future is to learn from the past, so the most important question you can ask about the steam engine is, how does it work? #integza #steamengine #tesla #makermovement </content>
+    <link href="https://tiktok.com/@integza/video/7291248204631379232" rel="alternate"/>
+    <published>2023-10-18T10:46:59+00:00</published>
   </entry>
 </feed>
