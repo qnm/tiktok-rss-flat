@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@wishbonekitchen</id>
   <title>wishbonekitchen TikTok</title>
-  <updated>2023-10-19T12:24:46+00:00</updated>
+  <updated>2023-10-20T15:01:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from wishbonekitchen</subtitle>
-  <entry>
-    <id>https://tiktok.com/@wishbonekitchen/video/7289792882007969055</id>
-    <title>Replying to @leamichele deleted scenes 🫡</title>
-    <updated>2023-10-14T12:39:58+00:00</updated>
-    <content>Replying to @leamichele deleted scenes 🫡</content>
-    <link href="https://tiktok.com/@wishbonekitchen/video/7289792882007969055" rel="alternate"/>
-    <published>2023-10-14T12:39:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@wishbonekitchen/video/7290680002813709599</id>
     <title>the sky has been showing off lately 🧘‍♀️</title>
@@ -51,5 +43,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@wishbonekitchen/video/7291644432472886559" rel="alternate"/>
     <published>2023-10-19T12:24:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@wishbonekitchen/video/7292055891220745503</id>
+    <title>it’s giving 🍵 #soupseason </title>
+    <updated>2023-10-20T15:01:16+00:00</updated>
+    <content>it’s giving 🍵 #soupseason </content>
+    <link href="https://tiktok.com/@wishbonekitchen/video/7292055891220745503" rel="alternate"/>
+    <published>2023-10-20T15:01:16+00:00</published>
   </entry>
 </feed>
