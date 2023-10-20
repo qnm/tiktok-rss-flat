@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dexter.mp4</id>
   <title>dexter.mp4 TikTok</title>
-  <updated>2023-10-19T21:31:11+00:00</updated>
+  <updated>2023-10-20T21:27:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dexter.mp4</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dexter.mp4/video/7290691061708688686</id>
-    <title>Replying to @Scott Matthews The missing sock problem! #science #learnontiktok #learneclecticthings </title>
-    <updated>2023-10-16T22:45:10+00:00</updated>
-    <content>Replying to @Scott Matthews The missing sock problem! #science #learnontiktok #learneclecticthings </content>
-    <link href="https://tiktok.com/@dexter.mp4/video/7290691061708688686" rel="alternate"/>
-    <published>2023-10-16T22:45:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dexter.mp4/video/7291060579458944298</id>
     <title>Halley and Newton! #science #history #learnontiktok #learneclecticthings </title>
@@ -51,5 +43,13 @@
     <content>Hennig Brand, 1500 gallons of urine, and phosphorus!  #science #alchemy #history #learnontiktok #learneclecticthings #greenscreen </content>
     <link href="https://tiktok.com/@dexter.mp4/video/7291785270955887915" rel="alternate"/>
     <published>2023-10-19T21:31:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dexter.mp4/video/7292155474726702378</id>
+    <title>Mautam and rat floods! #science #biology #learnontiktok #learneclecticthings </title>
+    <updated>2023-10-20T21:27:45+00:00</updated>
+    <content>Mautam and rat floods! #science #biology #learnontiktok #learneclecticthings </content>
+    <link href="https://tiktok.com/@dexter.mp4/video/7292155474726702378" rel="alternate"/>
+    <published>2023-10-20T21:27:45+00:00</published>
   </entry>
 </feed>
