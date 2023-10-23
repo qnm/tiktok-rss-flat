@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@integza</id>
   <title>integza TikTok</title>
-  <updated>2023-10-20T08:56:16+00:00</updated>
+  <updated>2023-10-23T10:53:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from integza</subtitle>
-  <entry>
-    <id>https://tiktok.com/@integza/video/7289068520653081889</id>
-    <title>Elephants toothpaste but more aggressive! #integza #elephantstoothpaste #chemistry </title>
-    <updated>2023-10-12T13:48:40+00:00</updated>
-    <content>Elephants toothpaste but more aggressive! #integza #elephantstoothpaste #chemistry </content>
-    <link href="https://tiktok.com/@integza/video/7289068520653081889" rel="alternate"/>
-    <published>2023-10-12T13:48:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@integza/video/7289471800465952033</id>
     <title>Please God of thermodynamics, help me get this engine to self sustain the combustion without burning my house! #engineering #3dprinting #combustion </title>
@@ -51,5 +43,13 @@
     <content>Can I make an aerospike rocket at home? #engineering #rocket #aerospike </content>
     <link href="https://tiktok.com/@integza/video/7291961846058274080" rel="alternate"/>
     <published>2023-10-20T08:56:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@integza/video/7293105342550953249</id>
+    <title>Sometimes the problems of the past can be the solutions of the future. #makermovement #engineering #chemistry #rocketengine </title>
+    <updated>2023-10-23T10:53:37+00:00</updated>
+    <content>Sometimes the problems of the past can be the solutions of the future. #makermovement #engineering #chemistry #rocketengine </content>
+    <link href="https://tiktok.com/@integza/video/7293105342550953249" rel="alternate"/>
+    <published>2023-10-23T10:53:37+00:00</published>
   </entry>
 </feed>
