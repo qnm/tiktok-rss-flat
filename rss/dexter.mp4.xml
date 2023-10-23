@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dexter.mp4</id>
   <title>dexter.mp4 TikTok</title>
-  <updated>2023-10-22T22:23:09+00:00</updated>
+  <updated>2023-10-23T18:34:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dexter.mp4</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dexter.mp4/video/7291449519219461422</id>
-    <title>Cello scr0tüm!  #science #learning #learneclecticthings #greenscreen </title>
-    <updated>2023-10-18T23:48:13+00:00</updated>
-    <content>Cello scr0tüm!  #science #learning #learneclecticthings #greenscreen </content>
-    <link href="https://tiktok.com/@dexter.mp4/video/7291449519219461422" rel="alternate"/>
-    <published>2023-10-18T23:48:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dexter.mp4/video/7291785270955887915</id>
     <title>Hennig Brand, 1500 gallons of urine, and phosphorus!  #science #alchemy #history #learnontiktok #learneclecticthings #greenscreen </title>
@@ -51,5 +43,13 @@
     <content>What does heavy water raste like?! #science #learneclecticthings </content>
     <link href="https://tiktok.com/@dexter.mp4/video/7292911925715930410" rel="alternate"/>
     <published>2023-10-22T22:23:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dexter.mp4/video/7293224115509415210</id>
+    <title>The traveling salesman problem #onthisday #science #computing #learnontiktok #learneclecticthings </title>
+    <updated>2023-10-23T18:34:46+00:00</updated>
+    <content>The traveling salesman problem #onthisday #science #computing #learnontiktok #learneclecticthings </content>
+    <link href="https://tiktok.com/@dexter.mp4/video/7293224115509415210" rel="alternate"/>
+    <published>2023-10-23T18:34:46+00:00</published>
   </entry>
 </feed>
