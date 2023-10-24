@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jessthemaker</id>
   <title>jessthemaker TikTok</title>
-  <updated>2023-10-12T19:32:08+00:00</updated>
+  <updated>2023-10-24T18:38:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessthemaker</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessthemaker/video/7283156863947017518</id>
-    <title>What MTB gear do you used for chores? 😜 Just thought I’d help you out when you need to justify that next gear purchase 🙃 Discount codes for ramp and gloves - gear page on my website - link in bio! Goggles- @ixsmtb  My signature gloves - @handupgloves  Kne</title>
-    <updated>2023-09-26T15:28:28+00:00</updated>
-    <content>What MTB gear do you used for chores? 😜 Just thought I’d help you out when you need to justify that next gear purchase 🙃 Discount codes for ramp and gloves - gear page on my website - link in bio! Goggles- @ixsmtb  My signature gloves - @handupgloves  Knee pads- @ixsmtb  Bike rack- @1upusa  Jump ramp- @ninja_mtb_performance  Sweet tie dye tees @yt_industries Crop top desert shirt- @allthingslynt ( code Jessthemaker ) #mtbhumor #ridebikesbehappy #mtbreels #mtbfun #mtbgram </content>
-    <link href="https://tiktok.com/@jessthemaker/video/7283156863947017518" rel="alternate"/>
-    <published>2023-09-26T15:28:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessthemaker/video/7285127860388465950</id>
     <title>Nobody’s gonna know 🤫 I love some good hacks and this one from @inmyseams was so amazing 😜 especially after those sweaty rides where your helmet is drenched in sweat. Take a liner and voila! 🤌 What other hacks have you tried on and off the trail? #mtbhumo</title>
@@ -51,5 +43,13 @@
     <content>What are your go-to Fall MTB essentials? 🍂  REI has got you covered when it comes to lights, layers and a cozy flannel.  Click the link in bio to stock up on some fall riding essentials from @REI #reipartner #ad </content>
     <link href="https://tiktok.com/@jessthemaker/video/7289156989194702111" rel="alternate"/>
     <published>2023-10-12T19:32:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessthemaker/video/7293596191399464222</id>
+    <title>Friendly reminder to get out and ride this week 😉 Because less scrollin’ means more rollin’ 🤘 #mtbhumor #ridebikesbehappy #ridebikeshavefunfeelgood #mtbgram #mtbfun </title>
+    <updated>2023-10-24T18:38:33+00:00</updated>
+    <content>Friendly reminder to get out and ride this week 😉 Because less scrollin’ means more rollin’ 🤘 #mtbhumor #ridebikesbehappy #ridebikeshavefunfeelgood #mtbgram #mtbfun </content>
+    <link href="https://tiktok.com/@jessthemaker/video/7293596191399464222" rel="alternate"/>
+    <published>2023-10-24T18:38:33+00:00</published>
   </entry>
 </feed>
