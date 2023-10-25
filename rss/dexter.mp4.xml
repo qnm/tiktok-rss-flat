@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dexter.mp4</id>
   <title>dexter.mp4 TikTok</title>
-  <updated>2023-10-24T17:27:56+00:00</updated>
+  <updated>2023-10-25T00:05:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dexter.mp4</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dexter.mp4/video/7292155474726702378</id>
-    <title>Mautam and rat floods! #science #biology #learnontiktok #learneclecticthings </title>
-    <updated>2023-10-20T21:27:45+00:00</updated>
-    <content>Mautam and rat floods! #science #biology #learnontiktok #learneclecticthings </content>
-    <link href="https://tiktok.com/@dexter.mp4/video/7292155474726702378" rel="alternate"/>
-    <published>2023-10-20T21:27:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dexter.mp4/video/7292517088906988846</id>
     <title>Book reviews number 9! #booktok #learnontiktok #learneclecticthings </title>
@@ -51,5 +43,13 @@
     <content>Whale falls!  #science  #animals #learnontiktok #learneclecticthings </content>
     <link href="https://tiktok.com/@dexter.mp4/video/7293577992247233835" rel="alternate"/>
     <published>2023-10-24T17:27:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dexter.mp4/video/7293680520741883182</id>
+    <title>Im in a corn maze! Featuring my family at the end!  #learneclecticthings </title>
+    <updated>2023-10-25T00:05:41+00:00</updated>
+    <content>Im in a corn maze! Featuring my family at the end!  #learneclecticthings </content>
+    <link href="https://tiktok.com/@dexter.mp4/video/7293680520741883182" rel="alternate"/>
+    <published>2023-10-25T00:05:41+00:00</published>
   </entry>
 </feed>
