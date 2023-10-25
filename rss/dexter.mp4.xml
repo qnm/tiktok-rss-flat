@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dexter.mp4</id>
   <title>dexter.mp4 TikTok</title>
-  <updated>2023-10-25T00:05:41+00:00</updated>
+  <updated>2023-10-25T16:41:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dexter.mp4</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dexter.mp4/video/7292517088906988846</id>
-    <title>Book reviews number 9! #booktok #learnontiktok #learneclecticthings </title>
-    <updated>2023-10-21T20:51:00+00:00</updated>
-    <content>Book reviews number 9! #booktok #learnontiktok #learneclecticthings </content>
-    <link href="https://tiktok.com/@dexter.mp4/video/7292517088906988846" rel="alternate"/>
-    <published>2023-10-21T20:51:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dexter.mp4/video/7292911925715930410</id>
     <title>What does heavy water raste like?! #science #learneclecticthings </title>
@@ -51,5 +43,13 @@
     <content>Im in a corn maze! Featuring my family at the end!  #learneclecticthings </content>
     <link href="https://tiktok.com/@dexter.mp4/video/7293680520741883182" rel="alternate"/>
     <published>2023-10-25T00:05:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dexter.mp4/video/7293937161693318446</id>
+    <title>Irish wolf hounds!  #history #science #learnontiktok #learneclecticthings </title>
+    <updated>2023-10-25T16:41:41+00:00</updated>
+    <content>Irish wolf hounds!  #history #science #learnontiktok #learneclecticthings </content>
+    <link href="https://tiktok.com/@dexter.mp4/video/7293937161693318446" rel="alternate"/>
+    <published>2023-10-25T16:41:41+00:00</published>
   </entry>
 </feed>
