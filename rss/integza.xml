@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@integza</id>
   <title>integza TikTok</title>
-  <updated>2023-10-26T15:21:01+00:00</updated>
+  <updated>2023-10-27T14:25:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from integza</subtitle>
-  <entry>
-    <id>https://tiktok.com/@integza/video/7290593756582104353</id>
-    <title>Building Nikola Tesla's bladeless turbine #3dprinting #integza #engineering #tesla </title>
-    <updated>2023-10-16T16:27:23+00:00</updated>
-    <content>Building Nikola Tesla's bladeless turbine #3dprinting #integza #engineering #tesla </content>
-    <link href="https://tiktok.com/@integza/video/7290593756582104353" rel="alternate"/>
-    <published>2023-10-16T16:27:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@integza/video/7291248204631379232</id>
     <title>The best way to create a better future is to learn from the past, so the most important question you can ask about the steam engine is, how does it work? #integza #steamengine #tesla #makermovement </title>
@@ -51,5 +43,13 @@
     <content>Making a Tesla Earthquake Machine requires out of the box thinking, have I gone too far? #engineering #tesla #makermovement #siencetok </content>
     <link href="https://tiktok.com/@integza/video/7294287515614219553" rel="alternate"/>
     <published>2023-10-26T15:21:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@integza/video/7294644233032469793</id>
+    <title>I had the idea to 3D print objects using oxidizer to see how fast they would burn... pretty cool results! #siencetok #nasa #rocketfuel #3dprinting #3dprinter #experiment </title>
+    <updated>2023-10-27T14:25:17+00:00</updated>
+    <content>I had the idea to 3D print objects using oxidizer to see how fast they would burn... pretty cool results! #siencetok #nasa #rocketfuel #3dprinting #3dprinter #experiment </content>
+    <link href="https://tiktok.com/@integza/video/7294644233032469793" rel="alternate"/>
+    <published>2023-10-27T14:25:17+00:00</published>
   </entry>
 </feed>
