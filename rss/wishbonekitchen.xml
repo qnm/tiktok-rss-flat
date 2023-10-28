@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@wishbonekitchen</id>
   <title>wishbonekitchen TikTok</title>
-  <updated>2023-10-27T02:05:05+00:00</updated>
+  <updated>2023-10-24T17:53:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from wishbonekitchen</subtitle>
+  <entry>
+    <id>https://tiktok.com/@wishbonekitchen/video/7291314718877289758</id>
+    <title>this pork chop could steal your man</title>
+    <updated>2023-10-18T15:05:10+00:00</updated>
+    <content>this pork chop could steal your man</content>
+    <link href="https://tiktok.com/@wishbonekitchen/video/7291314718877289758" rel="alternate"/>
+    <published>2023-10-18T15:05:10+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@wishbonekitchen/video/7291644432472886559</id>
     <title>No Title</title>
@@ -43,13 +51,5 @@
     <content>is it brussel sprouts or brussels sprouts 🤔 </content>
     <link href="https://tiktok.com/@wishbonekitchen/video/7293584458815491359" rel="alternate"/>
     <published>2023-10-24T17:53:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@wishbonekitchen/video/7294453464514563359</id>
-    <title>Replying to @Hayden Pegues🌴  🍰🍰🍰</title>
-    <updated>2023-10-27T02:05:05+00:00</updated>
-    <content>Replying to @Hayden Pegues🌴  🍰🍰🍰</content>
-    <link href="https://tiktok.com/@wishbonekitchen/video/7294453464514563359" rel="alternate"/>
-    <published>2023-10-27T02:05:05+00:00</published>
   </entry>
 </feed>
