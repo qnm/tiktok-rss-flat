@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@integza</id>
   <title>integza TikTok</title>
-  <updated>2023-10-27T14:25:17+00:00</updated>
+  <updated>2023-10-30T17:37:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from integza</subtitle>
-  <entry>
-    <id>https://tiktok.com/@integza/video/7291248204631379232</id>
-    <title>The best way to create a better future is to learn from the past, so the most important question you can ask about the steam engine is, how does it work? #integza #steamengine #tesla #makermovement </title>
-    <updated>2023-10-18T10:46:59+00:00</updated>
-    <content>The best way to create a better future is to learn from the past, so the most important question you can ask about the steam engine is, how does it work? #integza #steamengine #tesla #makermovement </content>
-    <link href="https://tiktok.com/@integza/video/7291248204631379232" rel="alternate"/>
-    <published>2023-10-18T10:46:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@integza/video/7291961846058274080</id>
     <title>Can I make an aerospike rocket at home? #engineering #rocket #aerospike </title>
@@ -51,5 +43,13 @@
     <content>I had the idea to 3D print objects using oxidizer to see how fast they would burn... pretty cool results! #siencetok #nasa #rocketfuel #3dprinting #3dprinter #experiment </content>
     <link href="https://tiktok.com/@integza/video/7294644233032469793" rel="alternate"/>
     <published>2023-10-27T14:25:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@integza/video/7295807077354704160</id>
+    <title>I made a pulse jet engine with no moving part, using a thermojet design. #integza #3dpriting #rocketengine </title>
+    <updated>2023-10-30T17:37:43+00:00</updated>
+    <content>I made a pulse jet engine with no moving part, using a thermojet design. #integza #3dpriting #rocketengine </content>
+    <link href="https://tiktok.com/@integza/video/7295807077354704160" rel="alternate"/>
+    <published>2023-10-30T17:37:43+00:00</published>
   </entry>
 </feed>
