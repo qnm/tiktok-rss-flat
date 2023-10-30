@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@julesterpak</id>
   <title>julesterpak TikTok</title>
-  <updated>2023-10-10T15:15:37+00:00</updated>
+  <updated>2023-10-26T20:19:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from julesterpak</subtitle>
-  <entry>
-    <id>https://tiktok.com/@julesterpak/video/7283138282278456622</id>
-    <title>ChatGPT can now see, hear, and speak</title>
-    <updated>2023-09-26T14:16:25+00:00</updated>
-    <content>ChatGPT can now see, hear, and speak</content>
-    <link href="https://tiktok.com/@julesterpak/video/7283138282278456622" rel="alternate"/>
-    <published>2023-09-26T14:16:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@julesterpak/video/7286175071566220590</id>
     <title>I had the honor of interviewing Noam Chomsky. Check out our conversation today on @MasterClass </title>
@@ -51,5 +43,13 @@
     <content>Meta’s AI personas are here. Buckle up</content>
     <link href="https://tiktok.com/@julesterpak/video/7288348720867986734" rel="alternate"/>
     <published>2023-10-10T15:15:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@julesterpak/video/7294364436062571819</id>
+    <title>The world’s most “extremely online” humans meet IRL</title>
+    <updated>2023-10-26T20:19:36+00:00</updated>
+    <content>The world’s most “extremely online” humans meet IRL</content>
+    <link href="https://tiktok.com/@julesterpak/video/7294364436062571819" rel="alternate"/>
+    <published>2023-10-26T20:19:36+00:00</published>
   </entry>
 </feed>
