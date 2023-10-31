@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dexter.mp4</id>
   <title>dexter.mp4 TikTok</title>
-  <updated>2023-10-30T22:02:45+00:00</updated>
+  <updated>2023-10-31T02:06:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dexter.mp4</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dexter.mp4/video/7294402929279175979</id>
-    <title>Extint dog breeds! #history #dogsoftiktok #learneclecticthings </title>
-    <updated>2023-10-26T22:49:18+00:00</updated>
-    <content>Extint dog breeds! #history #dogsoftiktok #learneclecticthings </content>
-    <link href="https://tiktok.com/@dexter.mp4/video/7294402929279175979" rel="alternate"/>
-    <published>2023-10-26T22:49:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dexter.mp4/video/7294726879477665070</id>
     <title>Tread wheels and tread mills! #history #learnontiktok #learneclecticthings #greenscreen </title>
@@ -51,5 +43,13 @@
     <content>Phonesthemes!  #language #linguistics #learnontiktok #learneclecticthings </content>
     <link href="https://tiktok.com/@dexter.mp4/video/7295875358237183275" rel="alternate"/>
     <published>2023-10-30T22:02:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dexter.mp4/video/7295938090126822698</id>
+    <title>#onthisday Garden path sentences! #language #writing #wordplay #learneclecticthings </title>
+    <updated>2023-10-31T02:06:08+00:00</updated>
+    <content>#onthisday Garden path sentences! #language #writing #wordplay #learneclecticthings </content>
+    <link href="https://tiktok.com/@dexter.mp4/video/7295938090126822698" rel="alternate"/>
+    <published>2023-10-31T02:06:08+00:00</published>
   </entry>
 </feed>
