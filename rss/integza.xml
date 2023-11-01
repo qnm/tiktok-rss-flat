@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@integza</id>
   <title>integza TikTok</title>
-  <updated>2023-10-30T17:37:43+00:00</updated>
+  <updated>2023-11-01T16:03:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from integza</subtitle>
-  <entry>
-    <id>https://tiktok.com/@integza/video/7291961846058274080</id>
-    <title>Can I make an aerospike rocket at home? #engineering #rocket #aerospike </title>
-    <updated>2023-10-20T08:56:16+00:00</updated>
-    <content>Can I make an aerospike rocket at home? #engineering #rocket #aerospike </content>
-    <link href="https://tiktok.com/@integza/video/7291961846058274080" rel="alternate"/>
-    <published>2023-10-20T08:56:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@integza/video/7293105342550953249</id>
     <title>Sometimes the problems of the past can be the solutions of the future. #makermovement #engineering #chemistry #rocketengine </title>
@@ -51,5 +43,13 @@
     <content>I made a pulse jet engine with no moving part, using a thermojet design. #integza #3dpriting #rocketengine </content>
     <link href="https://tiktok.com/@integza/video/7295807077354704160" rel="alternate"/>
     <published>2023-10-30T17:37:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@integza/video/7296525047580069153</id>
+    <title>Let's see what my 3D printed liquid piston engine can do! #engineering #3dpriting #sciencetok #tesla </title>
+    <updated>2023-11-01T16:03:47+00:00</updated>
+    <content>Let's see what my 3D printed liquid piston engine can do! #engineering #3dpriting #sciencetok #tesla </content>
+    <link href="https://tiktok.com/@integza/video/7296525047580069153" rel="alternate"/>
+    <published>2023-11-01T16:03:47+00:00</published>
   </entry>
 </feed>
