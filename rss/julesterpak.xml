@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@julesterpak</id>
   <title>julesterpak TikTok</title>
-  <updated>2023-10-31T01:49:19+00:00</updated>
+  <updated>2023-10-26T20:19:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from julesterpak</subtitle>
+  <entry>
+    <id>https://tiktok.com/@julesterpak/video/7286175071566220590</id>
+    <title>I had the honor of interviewing Noam Chomsky. Check out our conversation today on @MasterClass </title>
+    <updated>2023-10-04T18:40:54+00:00</updated>
+    <content>I had the honor of interviewing Noam Chomsky. Check out our conversation today on @MasterClass </content>
+    <link href="https://tiktok.com/@julesterpak/video/7286175071566220590" rel="alternate"/>
+    <published>2023-10-04T18:40:54+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@julesterpak/video/7286631597363744043</id>
     <title>Sat down with Spotify co-founder and CEO Daniel Ek to discuss their new pursuit within Audiobooks, as well as how he’s thinking about artificial intelligence and competing with Big Tech. His innovation and impact is undeniable — what an honor  </title>
@@ -43,13 +51,5 @@
     <content>The world’s most “extremely online” humans meet IRL</content>
     <link href="https://tiktok.com/@julesterpak/video/7294364436062571819" rel="alternate"/>
     <published>2023-10-26T20:19:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@julesterpak/video/7295933754881641770</id>
-    <title>Only the OG Tumblr girls remember </title>
-    <updated>2023-10-31T01:49:19+00:00</updated>
-    <content>Only the OG Tumblr girls remember </content>
-    <link href="https://tiktok.com/@julesterpak/video/7295933754881641770" rel="alternate"/>
-    <published>2023-10-31T01:49:19+00:00</published>
   </entry>
 </feed>
