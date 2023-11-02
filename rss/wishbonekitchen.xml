@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@wishbonekitchen</id>
   <title>wishbonekitchen TikTok</title>
-  <updated>2023-11-01T23:23:47+00:00</updated>
+  <updated>2023-11-02T13:24:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from wishbonekitchen</subtitle>
-  <entry>
-    <id>https://tiktok.com/@wishbonekitchen/video/7292055891220745503</id>
-    <title>it’s giving 🍵 #soupseason </title>
-    <updated>2023-10-20T15:01:16+00:00</updated>
-    <content>it’s giving 🍵 #soupseason </content>
-    <link href="https://tiktok.com/@wishbonekitchen/video/7292055891220745503" rel="alternate"/>
-    <published>2023-10-20T15:01:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@wishbonekitchen/video/7292144713824603422</id>
     <title>Makers of Mischief Mystery BoxChallenge? Sign me up! I created this delicious Green Goddess Montchevre Goat Cheese pasta dish using ingredients from the box @montchevregoatcheese sent me #MakersofMischiefandCheese </title>
@@ -51,5 +43,13 @@
     <content>me 🫂 raw meat </content>
     <link href="https://tiktok.com/@wishbonekitchen/video/7296638406644321566" rel="alternate"/>
     <published>2023-11-01T23:23:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@wishbonekitchen/video/7296855091976342814</id>
+    <title>only 22 days until the greatest day of the year 🤸🏼‍♀️ #thanksgiving #friendsgiving #thanksgivingvibes  </title>
+    <updated>2023-11-02T13:24:37+00:00</updated>
+    <content>only 22 days until the greatest day of the year 🤸🏼‍♀️ #thanksgiving #friendsgiving #thanksgivingvibes  </content>
+    <link href="https://tiktok.com/@wishbonekitchen/video/7296855091976342814" rel="alternate"/>
+    <published>2023-11-02T13:24:37+00:00</published>
   </entry>
 </feed>
