@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@universeofemily</id>
   <title>universeofemily TikTok</title>
-  <updated>2023-11-02T02:16:55.986845+00:00</updated>
+  <updated>2023-05-02T14:47:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,4 +12,44 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from universeofemily</subtitle>
+  <entry>
+    <id>https://tiktok.com/@universeofemily/video/7168484833268845870</id>
+    <title>Sci fi cosplay incoming...💛 #bladerunner #bladerunner2049 #bladerunnercostume #bladerunnercosplay #cosplaytransition #joi </title>
+    <updated>2022-11-21T15:02:28+00:00</updated>
+    <content>Sci fi cosplay incoming...💛 #bladerunner #bladerunner2049 #bladerunnercostume #bladerunnercosplay #cosplaytransition #joi </content>
+    <link href="https://tiktok.com/@universeofemily/video/7168484833268845870" rel="alternate"/>
+    <published>2022-11-21T15:02:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@universeofemily/video/7173694154529148202</id>
+    <title>Who the hell is Bucky? ⚠️PROP WEAPONS⚠️ #thewintersoldier #buckybarnes #buckybarnescosplay #bucky #marvel #marvelcosplay #genderbendcosplay #knifeflip </title>
+    <updated>2022-12-05T15:57:19+00:00</updated>
+    <content>Who the hell is Bucky? ⚠️PROP WEAPONS⚠️ #thewintersoldier #buckybarnes #buckybarnescosplay #bucky #marvel #marvelcosplay #genderbendcosplay #knifeflip </content>
+    <link href="https://tiktok.com/@universeofemily/video/7173694154529148202" rel="alternate"/>
+    <published>2022-12-05T15:57:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@universeofemily/video/7181490144493456683</id>
+    <title>Becky Barnes? #thewintersoldier #wintersoldiercosplay #buckybarnes #buckybarnescosplay #marvelcosplay #marvel #cosplayer #genderbendcosplay </title>
+    <updated>2022-12-26T16:09:51+00:00</updated>
+    <content>Becky Barnes? #thewintersoldier #wintersoldiercosplay #buckybarnes #buckybarnescosplay #marvelcosplay #marvel #cosplayer #genderbendcosplay </content>
+    <link href="https://tiktok.com/@universeofemily/video/7181490144493456683" rel="alternate"/>
+    <published>2022-12-26T16:09:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@universeofemily/video/7190380795272465707</id>
+    <title>The snap is so satisfying 🖤 #batman #batarang #arkham #arkhamasylum #arkhamknight #cosplayprop #movieprops #batmancosplay #dccomics #3dprintingideas </title>
+    <updated>2023-01-19T15:09:59+00:00</updated>
+    <content>The snap is so satisfying 🖤 #batman #batarang #arkham #arkhamasylum #arkhamknight #cosplayprop #movieprops #batmancosplay #dccomics #3dprintingideas </content>
+    <link href="https://tiktok.com/@universeofemily/video/7190380795272465707" rel="alternate"/>
+    <published>2023-01-19T15:09:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@universeofemily/video/7228596813320834350</id>
+    <title>Sunset saber spinning🖤 Chosen One lightsaber from AllySabers TLJ cosplay made by me! #lightsaber #lightsabertricks #reycosplay #thelastjedi #sabertiktok #saberspinning </title>
+    <updated>2023-05-02T14:47:59+00:00</updated>
+    <content>Sunset saber spinning🖤 Chosen One lightsaber from AllySabers TLJ cosplay made by me! #lightsaber #lightsabertricks #reycosplay #thelastjedi #sabertiktok #saberspinning </content>
+    <link href="https://tiktok.com/@universeofemily/video/7228596813320834350" rel="alternate"/>
+    <published>2023-05-02T14:47:59+00:00</published>
+  </entry>
 </feed>
