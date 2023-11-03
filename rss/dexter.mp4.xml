@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dexter.mp4</id>
   <title>dexter.mp4 TikTok</title>
-  <updated>2023-11-02T19:23:15+00:00</updated>
+  <updated>2023-11-02T23:43:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dexter.mp4</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dexter.mp4/video/7295938090126822698</id>
-    <title>#onthisday Garden path sentences! #language #writing #wordplay #learneclecticthings </title>
-    <updated>2023-10-31T02:06:08+00:00</updated>
-    <content>#onthisday Garden path sentences! #language #writing #wordplay #learneclecticthings </content>
-    <link href="https://tiktok.com/@dexter.mp4/video/7295938090126822698" rel="alternate"/>
-    <published>2023-10-31T02:06:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dexter.mp4/video/7296262706871536938</id>
     <title>Ig Nobel introduction! #ignobelnovember #science #learnontiktok #learneclecticthings </title>
@@ -51,5 +43,13 @@
     <content>Replying to @Friday Cats are liquid! #ignobelnovember #rheology #learnontiktok #learneclecticthings </content>
     <link href="https://tiktok.com/@dexter.mp4/video/7296947445911620907" rel="alternate"/>
     <published>2023-11-02T19:23:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dexter.mp4/video/7297014528007523627</id>
+    <title>Electrified chopsticks! #ignobelnovember #science #food #learnontiktok #learneclecticthings #greenscreen </title>
+    <updated>2023-11-02T23:43:23+00:00</updated>
+    <content>Electrified chopsticks! #ignobelnovember #science #food #learnontiktok #learneclecticthings #greenscreen </content>
+    <link href="https://tiktok.com/@dexter.mp4/video/7297014528007523627" rel="alternate"/>
+    <published>2023-11-02T23:43:23+00:00</published>
   </entry>
 </feed>
