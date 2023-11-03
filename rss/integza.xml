@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@integza</id>
   <title>integza TikTok</title>
-  <updated>2023-11-02T16:15:24+00:00</updated>
+  <updated>2023-11-03T15:39:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from integza</subtitle>
-  <entry>
-    <id>https://tiktok.com/@integza/video/7294287515614219553</id>
-    <title>Making a Tesla Earthquake Machine requires out of the box thinking, have I gone too far? #engineering #tesla #makermovement #siencetok </title>
-    <updated>2023-10-26T15:21:01+00:00</updated>
-    <content>Making a Tesla Earthquake Machine requires out of the box thinking, have I gone too far? #engineering #tesla #makermovement #siencetok </content>
-    <link href="https://tiktok.com/@integza/video/7294287515614219553" rel="alternate"/>
-    <published>2023-10-26T15:21:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@integza/video/7294644233032469793</id>
     <title>I had the idea to 3D print objects using oxidizer to see how fast they would burn... pretty cool results! #siencetok #nasa #rocketfuel #3dprinting #3dprinter #experiment </title>
@@ -51,5 +43,13 @@
     <content>I've just released a super cool poster that's available on my website! The 3D model of the engine is available too. Also, the first 20 posters sold will be signed by me. I hope you find it as cool as I do! #engineering #rotaryengine #mechanic #mechaniclife </content>
     <link href="https://tiktok.com/@integza/video/7296899115248602401" rel="alternate"/>
     <published>2023-11-02T16:15:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@integza/video/7297260882797595937</id>
+    <title>Talking about Wankel engines, I've just released a super cool poster that's available on my website (integza.com) along with the 3D model for the engine! I hope you find it as cool as I do! #engineering #rotaryengine #mechanicalengineering #sciencetok </title>
+    <updated>2023-11-03T15:39:14+00:00</updated>
+    <content>Talking about Wankel engines, I've just released a super cool poster that's available on my website (integza.com) along with the 3D model for the engine! I hope you find it as cool as I do! #engineering #rotaryengine #mechanicalengineering #sciencetok </content>
+    <link href="https://tiktok.com/@integza/video/7297260882797595937" rel="alternate"/>
+    <published>2023-11-03T15:39:14+00:00</published>
   </entry>
 </feed>
