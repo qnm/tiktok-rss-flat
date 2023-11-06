@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dexter.mp4</id>
   <title>dexter.mp4 TikTok</title>
-  <updated>2023-11-05T22:17:23+00:00</updated>
+  <updated>2023-11-06T20:36:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dexter.mp4</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dexter.mp4/video/7297392985925274923</id>
-    <title>Nocrobotic spider gripers! #ignobelnovember #science #engineering #learnontiktok #learneclecticthings </title>
-    <updated>2023-11-04T00:12:01+00:00</updated>
-    <content>Nocrobotic spider gripers! #ignobelnovember #science #engineering #learnontiktok #learneclecticthings </content>
-    <link href="https://tiktok.com/@dexter.mp4/video/7297392985925274923" rel="alternate"/>
-    <published>2023-11-04T00:12:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dexter.mp4/video/7297667602988453163</id>
     <title>Neuticals! #ignobelnovember #learneclecticthings #dogsoftiktok </title>
@@ -51,5 +43,13 @@
     <content>Replying to @Jerry Burke Sir Andre Geim: the only person with an Ig Nobel and a Nobel prize! #ignobelnovember #science #physics #learnontiktok #learneclecticthings #greenscreen #greenscreenvideo </content>
     <link href="https://tiktok.com/@dexter.mp4/video/7298105627627293994" rel="alternate"/>
     <published>2023-11-05T22:17:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dexter.mp4/video/7298450747224591659</id>
+    <title>John Trinkaus: an informal look!  #ignobelnovember #science #learnontiktok #learneclecticthings </title>
+    <updated>2023-11-06T20:36:42+00:00</updated>
+    <content>John Trinkaus: an informal look!  #ignobelnovember #science #learnontiktok #learneclecticthings </content>
+    <link href="https://tiktok.com/@dexter.mp4/video/7298450747224591659" rel="alternate"/>
+    <published>2023-11-06T20:36:42+00:00</published>
   </entry>
 </feed>
