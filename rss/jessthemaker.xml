@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jessthemaker</id>
   <title>jessthemaker TikTok</title>
-  <updated>2023-10-24T18:38:33+00:00</updated>
+  <updated>2023-11-07T14:11:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessthemaker</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessthemaker/video/7285127860388465950</id>
-    <title>Nobody’s gonna know 🤫 I love some good hacks and this one from @inmyseams was so amazing 😜 especially after those sweaty rides where your helmet is drenched in sweat. Take a liner and voila! 🤌 What other hacks have you tried on and off the trail? #mtbhumo</title>
-    <updated>2023-10-01T22:57:00+00:00</updated>
-    <content>Nobody’s gonna know 🤫 I love some good hacks and this one from @inmyseams was so amazing 😜 especially after those sweaty rides where your helmet is drenched in sweat. Take a liner and voila! 🤌 What other hacks have you tried on and off the trail? #mtbhumor #ridebikes #ridebikesbehappy #ridebikeshavefunfeelgood #mtbgram #mtbdaily</content>
-    <link href="https://tiktok.com/@jessthemaker/video/7285127860388465950" rel="alternate"/>
-    <published>2023-10-01T22:57:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessthemaker/video/7285571323982548254</id>
     <title>Am I the only one? 😅 I do enjoy a good hike from time to time, but usually it just makes me miss my mountain bike. 🤷‍♀️ #mtbhumor #mtbgram #getoutside #getoutsideandplay #ridebikes #mtblifestyle #mtbdaily </title>
@@ -51,5 +43,13 @@
     <content>Friendly reminder to get out and ride this week 😉 Because less scrollin’ means more rollin’ 🤘 #mtbhumor #ridebikesbehappy #ridebikeshavefunfeelgood #mtbgram #mtbfun </content>
     <link href="https://tiktok.com/@jessthemaker/video/7293596191399464222" rel="alternate"/>
     <published>2023-10-24T18:38:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessthemaker/video/7298722673343941930</id>
+    <title>What are some of your favorite ways to wind down after a day full of adventure? 😍   Gettin’ comfy is a must and Smartwool’s slippers provide the perfect way to wind down after a day full of excitement! Get them while you can!     Head over to the link in </title>
+    <updated>2023-11-07T14:11:50+00:00</updated>
+    <content>What are some of your favorite ways to wind down after a day full of adventure? 😍   Gettin’ comfy is a must and Smartwool’s slippers provide the perfect way to wind down after a day full of excitement! Get them while you can!     Head over to the link in my bio now and grab a pair (or two) before they’re all gone!   #gofarfeelgood #smartwool #smartwoolslippers #ad </content>
+    <link href="https://tiktok.com/@jessthemaker/video/7298722673343941930" rel="alternate"/>
+    <published>2023-11-07T14:11:50+00:00</published>
   </entry>
 </feed>
