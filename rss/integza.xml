@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@integza</id>
   <title>integza TikTok</title>
-  <updated>2023-11-06T14:57:39+00:00</updated>
+  <updated>2023-11-08T15:33:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from integza</subtitle>
-  <entry>
-    <id>https://tiktok.com/@integza/video/7296899115248602401</id>
-    <title>I've just released a super cool poster that's available on my website! The 3D model of the engine is available too. Also, the first 20 posters sold will be signed by me. I hope you find it as cool as I do! #engineering #rotaryengine #mechanic #mechaniclif</title>
-    <updated>2023-11-02T16:15:24+00:00</updated>
-    <content>I've just released a super cool poster that's available on my website! The 3D model of the engine is available too. Also, the first 20 posters sold will be signed by me. I hope you find it as cool as I do! #engineering #rotaryengine #mechanic #mechaniclife </content>
-    <link href="https://tiktok.com/@integza/video/7296899115248602401" rel="alternate"/>
-    <published>2023-11-02T16:15:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@integza/video/7297260882797595937</id>
     <title>Talking about Wankel engines, I've just released a super cool poster that's available on my website (integza.com) along with the 3D model for the engine! I hope you find it as cool as I do! #engineering #rotaryengine #mechanicalengineering #sciencetok </title>
@@ -51,5 +43,13 @@
     <content>I've just released a super cool poster that's available on my website integza.com ! the 3D model of the engine is available too. Also, the first 20 posters sold will be signed by me. I hope you find it as cool as I do! #engineering #mechanicalengineering #sciencetok #rotaryengine </content>
     <link href="https://tiktok.com/@integza/video/7298363420909276448" rel="alternate"/>
     <published>2023-11-06T14:57:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@integza/video/7299114959370259745</id>
+    <title>Are you ready for this?! #science #makermovement #jetengine #engineering </title>
+    <updated>2023-11-08T15:33:59+00:00</updated>
+    <content>Are you ready for this?! #science #makermovement #jetengine #engineering </content>
+    <link href="https://tiktok.com/@integza/video/7299114959370259745" rel="alternate"/>
+    <published>2023-11-08T15:33:59+00:00</published>
   </entry>
 </feed>
