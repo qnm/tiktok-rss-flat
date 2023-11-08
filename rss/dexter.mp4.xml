@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dexter.mp4</id>
   <title>dexter.mp4 TikTok</title>
-  <updated>2023-11-07T19:42:34+00:00</updated>
+  <updated>2023-11-08T00:05:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dexter.mp4</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dexter.mp4/video/7297722220325899562</id>
-    <title>Ig Nobel guest spot #1 with @Dr. Josh, PhD, LMFT  #ignobelnovember #science #aliens #learneclecticthings </title>
-    <updated>2023-11-04T21:29:36+00:00</updated>
-    <content>Ig Nobel guest spot #1 with @Dr. Josh, PhD, LMFT  #ignobelnovember #science #aliens #learneclecticthings </content>
-    <link href="https://tiktok.com/@dexter.mp4/video/7297722220325899562" rel="alternate"/>
-    <published>2023-11-04T21:29:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dexter.mp4/video/7297761668702932267</id>
     <title>Beetles bangin beer bottles!  #ignobelnovember #science #learnontiktok #learneclecticthings </title>
@@ -51,5 +43,13 @@
     <content>Ig Nobel guest spot #2 with @Joannasaurus  #ignobelnovember #science #paleontology #learneclecticthings </content>
     <link href="https://tiktok.com/@dexter.mp4/video/7298807910988139818" rel="alternate"/>
     <published>2023-11-07T19:42:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dexter.mp4/video/7298875727343013163</id>
+    <title>Chilling with @Big Tim Murphy  #learneclecticthings </title>
+    <updated>2023-11-08T00:05:40+00:00</updated>
+    <content>Chilling with @Big Tim Murphy  #learneclecticthings </content>
+    <link href="https://tiktok.com/@dexter.mp4/video/7298875727343013163" rel="alternate"/>
+    <published>2023-11-08T00:05:40+00:00</published>
   </entry>
 </feed>
