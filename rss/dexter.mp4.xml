@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dexter.mp4</id>
   <title>dexter.mp4 TikTok</title>
-  <updated>2023-11-09T18:39:33+00:00</updated>
+  <updated>2023-11-10T00:58:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dexter.mp4</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dexter.mp4/video/7298807910988139818</id>
-    <title>Ig Nobel guest spot #2 with @Joannasaurus  #ignobelnovember #science #paleontology #learneclecticthings </title>
-    <updated>2023-11-07T19:42:34+00:00</updated>
-    <content>Ig Nobel guest spot #2 with @Joannasaurus  #ignobelnovember #science #paleontology #learneclecticthings </content>
-    <link href="https://tiktok.com/@dexter.mp4/video/7298807910988139818" rel="alternate"/>
-    <published>2023-11-07T19:42:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dexter.mp4/video/7298875727343013163</id>
     <title>Chilling with @Big Tim Murphy  #learneclecticthings </title>
@@ -51,5 +43,13 @@
     <content>Ig Nobel guest spot #3 with @Professor Casey Fiesler ! #ignobelnovember #science #computerscience #learneclecticthings </content>
     <link href="https://tiktok.com/@dexter.mp4/video/7299533816782146858" rel="alternate"/>
     <published>2023-11-09T18:39:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dexter.mp4/video/7299631591221955883</id>
+    <title>Crop circles! #ignobelnovember #history #science #learneclecticthings </title>
+    <updated>2023-11-10T00:58:59+00:00</updated>
+    <content>Crop circles! #ignobelnovember #history #science #learneclecticthings </content>
+    <link href="https://tiktok.com/@dexter.mp4/video/7299631591221955883" rel="alternate"/>
+    <published>2023-11-10T00:58:59+00:00</published>
   </entry>
 </feed>
