@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dexter.mp4</id>
   <title>dexter.mp4 TikTok</title>
-  <updated>2023-11-11T05:30:11+00:00</updated>
+  <updated>2023-11-11T19:36:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dexter.mp4</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dexter.mp4/video/7299533816782146858</id>
-    <title>Ig Nobel guest spot #3 with @Professor Casey Fiesler ! #ignobelnovember #science #computerscience #learneclecticthings </title>
-    <updated>2023-11-09T18:39:33+00:00</updated>
-    <content>Ig Nobel guest spot #3 with @Professor Casey Fiesler ! #ignobelnovember #science #computerscience #learneclecticthings </content>
-    <link href="https://tiktok.com/@dexter.mp4/video/7299533816782146858" rel="alternate"/>
-    <published>2023-11-09T18:39:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dexter.mp4/video/7299631591221955883</id>
     <title>Crop circles! #ignobelnovember #history #science #learneclecticthings </title>
@@ -51,5 +43,13 @@
     <content>Scientists scaring reindeer dressed as polar bears! #ignobelnovember #science #learneclecticthings #onthisday </content>
     <link href="https://tiktok.com/@dexter.mp4/video/7300072541165604139" rel="alternate"/>
     <published>2023-11-11T05:30:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dexter.mp4/video/7300290717501426986</id>
+    <title>The brains of London taxi drivers! #ignobelnovember #science #learneclecticthings </title>
+    <updated>2023-11-11T19:36:43+00:00</updated>
+    <content>The brains of London taxi drivers! #ignobelnovember #science #learneclecticthings </content>
+    <link href="https://tiktok.com/@dexter.mp4/video/7300290717501426986" rel="alternate"/>
+    <published>2023-11-11T19:36:43+00:00</published>
   </entry>
 </feed>
