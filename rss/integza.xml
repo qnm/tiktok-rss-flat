@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@integza</id>
   <title>integza TikTok</title>
-  <updated>2023-11-10T15:06:43+00:00</updated>
+  <updated>2023-11-13T15:55:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from integza</subtitle>
-  <entry>
-    <id>https://tiktok.com/@integza/video/7297604354213825824</id>
-    <title>Hey everyone! Ever since I made my own Wankel engine, I've been searching for a cool, commemorative poster for my shop, but I could never find one. So, I made it myself! And I made it available on my website (integza.com) so you can enjoy it too. The 3D m</title>
-    <updated>2023-11-04T13:52:05+00:00</updated>
-    <content>Hey everyone! Ever since I made my own Wankel engine, I've been searching for a cool, commemorative poster for my shop, but I could never find one. So, I made it myself! And I made it available on my website (integza.com) so you can enjoy it too. The 3D model for the engine is also available for purchase! The first 20 posters to be sold will be signed by me so don't wait too long! I hope find it as cool as I do. Thank you so much for you support! #engineering #sciencetok #mechanicalengineering #rotaryengine </content>
-    <link href="https://tiktok.com/@integza/video/7297604354213825824" rel="alternate"/>
-    <published>2023-11-04T13:52:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@integza/video/7297984429786418464</id>
     <title>Have you ever heard of the liquid piston engine? It's smaller and lighter, yet has the same power as a 3 cylinder engine! Of course, I had to try it... my own way! #sciencetok #engineering #mechanicalengineering #scooter </title>
@@ -51,5 +43,13 @@
     <content>What better test subject than a tomato to test the performance of my electric jet engine? #engineering #jetengine #rocket #integza </content>
     <link href="https://tiktok.com/@integza/video/7299850105144806689" rel="alternate"/>
     <published>2023-11-10T15:06:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@integza/video/7300976001931119904</id>
+    <title>How do you desugn a rocket nozzle? With NASA fuel of course... #jetengine #science #physics #engineering #nasa </title>
+    <updated>2023-11-13T15:55:49+00:00</updated>
+    <content>How do you desugn a rocket nozzle? With NASA fuel of course... #jetengine #science #physics #engineering #nasa </content>
+    <link href="https://tiktok.com/@integza/video/7300976001931119904" rel="alternate"/>
+    <published>2023-11-13T15:55:49+00:00</published>
   </entry>
 </feed>
