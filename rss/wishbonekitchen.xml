@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@wishbonekitchen</id>
   <title>wishbonekitchen TikTok</title>
-  <updated>2023-11-10T16:10:20+00:00</updated>
+  <updated>2023-11-14T21:31:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from wishbonekitchen</subtitle>
-  <entry>
-    <id>https://tiktok.com/@wishbonekitchen/video/7296961374155066655</id>
-    <title>Making it a damn good day everyday with @Folgers Coffee ✨ #DamnRightItsFolgers #Ad Shop now using the link in my bio</title>
-    <updated>2023-11-02T20:17:08+00:00</updated>
-    <content>Making it a damn good day everyday with @Folgers Coffee ✨ #DamnRightItsFolgers #Ad Shop now using the link in my bio</content>
-    <link href="https://tiktok.com/@wishbonekitchen/video/7296961374155066655" rel="alternate"/>
-    <published>2023-11-02T20:17:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@wishbonekitchen/video/7297273689102486815</id>
     <title>Replying to @ashtynmills917 this vietnamese nước chấm is sweet, salty, spicy, garlicky, gingery perfection. While recipes differ based on personal preference, the core ingredients stay the same: fish sauce, rice vinegar, lemon or lime juice, sugar, and fr</title>
@@ -51,5 +43,13 @@
     <content>Replying to @kaila someone send this to our HS principal </content>
     <link href="https://tiktok.com/@wishbonekitchen/video/7299866465338019103" rel="alternate"/>
     <published>2023-11-10T16:10:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@wishbonekitchen/video/7301433579479911711</id>
+    <title>#Sponsored Hosting made easy thanks to  @Google Pixel #Pixel8 Pro</title>
+    <updated>2023-11-14T21:31:39+00:00</updated>
+    <content>#Sponsored Hosting made easy thanks to  @Google Pixel #Pixel8 Pro</content>
+    <link href="https://tiktok.com/@wishbonekitchen/video/7301433579479911711" rel="alternate"/>
+    <published>2023-11-14T21:31:39+00:00</published>
   </entry>
 </feed>
