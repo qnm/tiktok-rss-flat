@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dexter.mp4</id>
   <title>dexter.mp4 TikTok</title>
-  <updated>2023-11-15T02:00:57+00:00</updated>
+  <updated>2023-11-15T21:02:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dexter.mp4</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dexter.mp4/video/7301036846610500906</id>
-    <title>Ig Nobel guest #5 with outlaw @Eric Guidry ! #ignobelnovember #science #learneclecticthings </title>
-    <updated>2023-11-13T19:52:14+00:00</updated>
-    <content>Ig Nobel guest #5 with outlaw @Eric Guidry ! #ignobelnovember #science #learneclecticthings </content>
-    <link href="https://tiktok.com/@dexter.mp4/video/7301036846610500906" rel="alternate"/>
-    <published>2023-11-13T19:52:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dexter.mp4/video/7301097856738348331</id>
     <title>Is clicker training a good way to teach orthopedic surgeons?! #ignobelnovember #science #learneclecticthings #greenscreen </title>
@@ -51,5 +43,13 @@
     <content>Maze solving slime mold! #ignobelnovember #science #learnontiktok #learneclecticthings  </content>
     <link href="https://tiktok.com/@dexter.mp4/video/7301503014567808298" rel="alternate"/>
     <published>2023-11-15T02:00:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dexter.mp4/video/7301797163049389358</id>
+    <title>Chickens with prosthetic tails!  #ignobelnovember #science #learneclecticthings </title>
+    <updated>2023-11-15T21:02:38+00:00</updated>
+    <content>Chickens with prosthetic tails!  #ignobelnovember #science #learneclecticthings </content>
+    <link href="https://tiktok.com/@dexter.mp4/video/7301797163049389358" rel="alternate"/>
+    <published>2023-11-15T21:02:38+00:00</published>
   </entry>
 </feed>
