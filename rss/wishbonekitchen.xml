@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@wishbonekitchen</id>
   <title>wishbonekitchen TikTok</title>
-  <updated>2023-11-14T21:31:39+00:00</updated>
+  <updated>2023-11-15T18:30:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from wishbonekitchen</subtitle>
-  <entry>
-    <id>https://tiktok.com/@wishbonekitchen/video/7297273689102486815</id>
-    <title>Replying to @ashtynmills917 this vietnamese nước chấm is sweet, salty, spicy, garlicky, gingery perfection. While recipes differ based on personal preference, the core ingredients stay the same: fish sauce, rice vinegar, lemon or lime juice, sugar, and fr</title>
-    <updated>2023-11-03T16:29:12+00:00</updated>
-    <content>Replying to @ashtynmills917 this vietnamese nước chấm is sweet, salty, spicy, garlicky, gingery perfection. While recipes differ based on personal preference, the core ingredients stay the same: fish sauce, rice vinegar, lemon or lime juice, sugar, and fresh chili. The rest is up to you really. I like my nước chấm with fresh garlic and ginger and double the amount of citrus juice than usual. I’ll also throw in things like scallions, cilantro stems, and lemongrass if I have them lying around. Full recipe is on my website ✨</content>
-    <link href="https://tiktok.com/@wishbonekitchen/video/7297273689102486815" rel="alternate"/>
-    <published>2023-11-03T16:29:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@wishbonekitchen/video/7298746299057294622</id>
     <title>@wishbonekitchen  planning my friendsgiving appetizers #friendsgiving #thanskgiving #thanksgivingappetizers #greenscreen </title>
@@ -51,5 +43,13 @@
     <content>#Sponsored Hosting made easy thanks to  @Google Pixel #Pixel8 Pro</content>
     <link href="https://tiktok.com/@wishbonekitchen/video/7301433579479911711" rel="alternate"/>
     <published>2023-11-14T21:31:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@wishbonekitchen/video/7301757924844571935</id>
+    <title>lazy thanksgiving hack(s) !!!!</title>
+    <updated>2023-11-15T18:30:32+00:00</updated>
+    <content>lazy thanksgiving hack(s) !!!!</content>
+    <link href="https://tiktok.com/@wishbonekitchen/video/7301757924844571935" rel="alternate"/>
+    <published>2023-11-15T18:30:32+00:00</published>
   </entry>
 </feed>

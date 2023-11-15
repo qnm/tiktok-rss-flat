@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@julesterpak</id>
   <title>julesterpak TikTok</title>
-  <updated>2023-11-14T16:54:11+00:00</updated>
+  <updated>2023-11-15T19:45:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from julesterpak</subtitle>
-  <entry>
-    <id>https://tiktok.com/@julesterpak/video/7298580675953773870</id>
-    <title>No Title</title>
-    <updated>2023-11-07T05:00:46+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@julesterpak/video/7298580675953773870" rel="alternate"/>
-    <published>2023-11-07T05:00:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@julesterpak/video/7299291980205428010</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>TikTok and Spotify hug eachother, and IG says more Close Friends</content>
     <link href="https://tiktok.com/@julesterpak/video/7301362047340547374" rel="alternate"/>
     <published>2023-11-14T16:54:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@julesterpak/video/7301777200829762858</id>
+    <title>Justice for the ability to pin comments </title>
+    <updated>2023-11-15T19:45:09+00:00</updated>
+    <content>Justice for the ability to pin comments </content>
+    <link href="https://tiktok.com/@julesterpak/video/7301777200829762858" rel="alternate"/>
+    <published>2023-11-15T19:45:09+00:00</published>
   </entry>
 </feed>
