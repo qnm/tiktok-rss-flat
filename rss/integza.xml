@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@integza</id>
   <title>integza TikTok</title>
-  <updated>2023-11-15T13:12:47+00:00</updated>
+  <updated>2023-11-17T13:13:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from integza</subtitle>
-  <entry>
-    <id>https://tiktok.com/@integza/video/7298363420909276448</id>
-    <title>I've just released a super cool poster that's available on my website integza.com ! the 3D model of the engine is available too. Also, the first 20 posters sold will be signed by me. I hope you find it as cool as I do! #engineering #mechanicalengineering </title>
-    <updated>2023-11-06T14:57:39+00:00</updated>
-    <content>I've just released a super cool poster that's available on my website integza.com ! the 3D model of the engine is available too. Also, the first 20 posters sold will be signed by me. I hope you find it as cool as I do! #engineering #mechanicalengineering #sciencetok #rotaryengine </content>
-    <link href="https://tiktok.com/@integza/video/7298363420909276448" rel="alternate"/>
-    <published>2023-11-06T14:57:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@integza/video/7299114959370259745</id>
     <title>Are you ready for this?! #science #makermovement #jetengine #engineering </title>
@@ -51,5 +43,13 @@
     <content>I 3D printed an aerospike rocket engine and it was way more powerful than I anticipated. #engine #engineering #rocket #3dprinting </content>
     <link href="https://tiktok.com/@integza/video/7301676161128500513" rel="alternate"/>
     <published>2023-11-15T13:12:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@integza/video/7302418525119843616</id>
+    <title>Testing my rocket engine fuelled with devil's toothpaste! it might explode or work pretty well. I guess we'll see! #engineering #chemistry #rocketengine #rocketfuel </title>
+    <updated>2023-11-17T13:13:31+00:00</updated>
+    <content>Testing my rocket engine fuelled with devil's toothpaste! it might explode or work pretty well. I guess we'll see! #engineering #chemistry #rocketengine #rocketfuel </content>
+    <link href="https://tiktok.com/@integza/video/7302418525119843616" rel="alternate"/>
+    <published>2023-11-17T13:13:31+00:00</published>
   </entry>
 </feed>
