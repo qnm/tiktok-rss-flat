@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@wishbonekitchen</id>
   <title>wishbonekitchen TikTok</title>
-  <updated>2023-11-19T21:19:14+00:00</updated>
+  <updated>2023-11-19T22:20:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from wishbonekitchen</subtitle>
-  <entry>
-    <id>https://tiktok.com/@wishbonekitchen/video/7299516997472226591</id>
-    <title>special dinner guest coming thru! can you guess who 👀</title>
-    <updated>2023-11-09T17:34:25+00:00</updated>
-    <content>special dinner guest coming thru! can you guess who 👀</content>
-    <link href="https://tiktok.com/@wishbonekitchen/video/7299516997472226591" rel="alternate"/>
-    <published>2023-11-09T17:34:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@wishbonekitchen/video/7299866465338019103</id>
     <title>Replying to @kaila someone send this to our HS principal </title>
@@ -51,5 +43,13 @@
     <content>#Sponsored Self care staycation powered by pasta and @Google Pixel @Verizon #Pixel8 Pro</content>
     <link href="https://tiktok.com/@wishbonekitchen/video/7303285829596761374" rel="alternate"/>
     <published>2023-11-19T21:19:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@wishbonekitchen/video/7303301638628871454</id>
+    <title>friendsgiving 🤍🦃</title>
+    <updated>2023-11-19T22:20:32+00:00</updated>
+    <content>friendsgiving 🤍🦃</content>
+    <link href="https://tiktok.com/@wishbonekitchen/video/7303301638628871454" rel="alternate"/>
+    <published>2023-11-19T22:20:32+00:00</published>
   </entry>
 </feed>
