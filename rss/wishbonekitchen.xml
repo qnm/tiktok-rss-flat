@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@wishbonekitchen</id>
   <title>wishbonekitchen TikTok</title>
-  <updated>2023-11-18T01:54:36+00:00</updated>
+  <updated>2023-11-15T18:30:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from wishbonekitchen</subtitle>
+  <entry>
+    <id>https://tiktok.com/@wishbonekitchen/video/7298746299057294622</id>
+    <title>@wishbonekitchen  planning my friendsgiving appetizers #friendsgiving #thanskgiving #thanksgivingappetizers #greenscreen </title>
+    <updated>2023-11-07T15:43:29+00:00</updated>
+    <content>@wishbonekitchen  planning my friendsgiving appetizers #friendsgiving #thanskgiving #thanksgivingappetizers #greenscreen </content>
+    <link href="https://tiktok.com/@wishbonekitchen/video/7298746299057294622" rel="alternate"/>
+    <published>2023-11-07T15:43:29+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@wishbonekitchen/video/7299516997472226591</id>
     <title>special dinner guest coming thru! can you guess who 👀</title>
@@ -43,13 +51,5 @@
     <content>lazy thanksgiving hack(s) !!!!</content>
     <link href="https://tiktok.com/@wishbonekitchen/video/7301757924844571935" rel="alternate"/>
     <published>2023-11-15T18:30:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@wishbonekitchen/video/7302614630717836575</id>
-    <title>#Sponsored Self care staycation powered by pasta and @Google pixel @Verizon #Pixel8 Pro</title>
-    <updated>2023-11-18T01:54:36+00:00</updated>
-    <content>#Sponsored Self care staycation powered by pasta and @Google pixel @Verizon #Pixel8 Pro</content>
-    <link href="https://tiktok.com/@wishbonekitchen/video/7302614630717836575" rel="alternate"/>
-    <published>2023-11-18T01:54:36+00:00</published>
   </entry>
 </feed>
