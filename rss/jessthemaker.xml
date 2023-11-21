@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jessthemaker</id>
   <title>jessthemaker TikTok</title>
-  <updated>2023-11-07T14:11:50+00:00</updated>
+  <updated>2023-11-21T18:41:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessthemaker</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessthemaker/video/7285571323982548254</id>
-    <title>Am I the only one? 😅 I do enjoy a good hike from time to time, but usually it just makes me miss my mountain bike. 🤷‍♀️ #mtbhumor #mtbgram #getoutside #getoutsideandplay #ridebikes #mtblifestyle #mtbdaily </title>
-    <updated>2023-10-03T03:37:59+00:00</updated>
-    <content>Am I the only one? 😅 I do enjoy a good hike from time to time, but usually it just makes me miss my mountain bike. 🤷‍♀️ #mtbhumor #mtbgram #getoutside #getoutsideandplay #ridebikes #mtblifestyle #mtbdaily </content>
-    <link href="https://tiktok.com/@jessthemaker/video/7285571323982548254" rel="alternate"/>
-    <published>2023-10-03T03:37:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessthemaker/video/7285860671932189983</id>
     <title>What other crafty ways have you taken a selfie on trail? 🙃 Show me your trailside tripod selfies using the hashtag #trailsidetripod 😍 I originally featured the trailside tripod in my hair tie hacks reel and it’s by far my favorite! Enjoy 😉  Glasses: @smit</title>
@@ -51,5 +43,13 @@
     <content>What are some of your favorite ways to wind down after a day full of adventure? 😍   Gettin’ comfy is a must and Smartwool’s slippers provide the perfect way to wind down after a day full of excitement! Get them while you can!     Head over to the link in my bio now and grab a pair (or two) before they’re all gone!   #gofarfeelgood #smartwool #smartwoolslippers #ad </content>
     <link href="https://tiktok.com/@jessthemaker/video/7298722673343941930" rel="alternate"/>
     <published>2023-11-07T14:11:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessthemaker/video/7303987260091813151</id>
+    <title>How would you tackle this feature!? 👇 Please note: for “alt lines” take it if theres an alt line provided and be sure to avoid widening trails if there is no apparent go around. 🙌 Appreciate some of yall for pointing this out 🙏 #mtbskills #mtbgram #mtbwom</title>
+    <updated>2023-11-21T18:41:09+00:00</updated>
+    <content>How would you tackle this feature!? 👇 Please note: for “alt lines” take it if theres an alt line provided and be sure to avoid widening trails if there is no apparent go around. 🙌 Appreciate some of yall for pointing this out 🙏 #mtbskills #mtbgram #mtbwomen #mtblovers #mtbdaily #mtbgirls</content>
+    <link href="https://tiktok.com/@jessthemaker/video/7303987260091813151" rel="alternate"/>
+    <published>2023-11-21T18:41:09+00:00</published>
   </entry>
 </feed>
