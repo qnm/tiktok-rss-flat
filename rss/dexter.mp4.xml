@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dexter.mp4</id>
   <title>dexter.mp4 TikTok</title>
-  <updated>2023-11-20T21:21:19+00:00</updated>
+  <updated>2023-11-21T22:37:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dexter.mp4</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dexter.mp4/video/7302597227212541226</id>
-    <title>Replying to @Kate R The shower curtain effect!  #ignobelnovember #science #learneclecticthings #greenscreenvideo #greenscreen </title>
-    <updated>2023-11-18T00:47:09+00:00</updated>
-    <content>Replying to @Kate R The shower curtain effect!  #ignobelnovember #science #learneclecticthings #greenscreenvideo #greenscreen </content>
-    <link href="https://tiktok.com/@dexter.mp4/video/7302597227212541226" rel="alternate"/>
-    <published>2023-11-18T00:47:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dexter.mp4/video/7302929424205352234</id>
-    <title>Running on water….on the moon! #ignobelnovember #science  #learneclecticthings </title>
-    <updated>2023-11-18T22:16:14+00:00</updated>
-    <content>Running on water….on the moon! #ignobelnovember #science  #learneclecticthings </content>
-    <link href="https://tiktok.com/@dexter.mp4/video/7302929424205352234" rel="alternate"/>
-    <published>2023-11-18T22:16:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dexter.mp4/video/7303262088141671726</id>
     <title>The slippocity of banana peels!  #ignobelnovember #science #learneclecticthings </title>
@@ -51,5 +35,21 @@
     <content>Confusing mosquitoes with cheese!  #ignobelnovember #learneclecticthings #science</content>
     <link href="https://tiktok.com/@dexter.mp4/video/7303657446466260270" rel="alternate"/>
     <published>2023-11-20T21:21:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dexter.mp4/video/7304018103397059882</id>
+    <title>Consequences of utilizing erudite vernacular irrespective of neccesity! #ignobelnovember #science #learneclecticthings </title>
+    <updated>2023-11-21T20:40:55+00:00</updated>
+    <content>Consequences of utilizing erudite vernacular irrespective of neccesity! #ignobelnovember #science #learneclecticthings </content>
+    <link href="https://tiktok.com/@dexter.mp4/video/7304018103397059882" rel="alternate"/>
+    <published>2023-11-21T20:40:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dexter.mp4/video/7304048164602973486</id>
+    <title>Replying to @Dex Daniel Oppenheimer 2006 Ig Nobel acceptance speech! #ignobelnovember #science #learneclecticthings </title>
+    <updated>2023-11-21T22:37:35+00:00</updated>
+    <content>Replying to @Dex Daniel Oppenheimer 2006 Ig Nobel acceptance speech! #ignobelnovember #science #learneclecticthings </content>
+    <link href="https://tiktok.com/@dexter.mp4/video/7304048164602973486" rel="alternate"/>
+    <published>2023-11-21T22:37:35+00:00</published>
   </entry>
 </feed>

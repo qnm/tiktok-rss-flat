@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@wishbonekitchen</id>
   <title>wishbonekitchen TikTok</title>
-  <updated>2023-11-20T23:48:49+00:00</updated>
+  <updated>2023-11-21T22:12:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from wishbonekitchen</subtitle>
-  <entry>
-    <id>https://tiktok.com/@wishbonekitchen/video/7301433579479911711</id>
-    <title>#Sponsored Hosting made easy thanks to  @Google Pixel #Pixel8 Pro</title>
-    <updated>2023-11-14T21:31:39+00:00</updated>
-    <content>#Sponsored Hosting made easy thanks to  @Google Pixel #Pixel8 Pro</content>
-    <link href="https://tiktok.com/@wishbonekitchen/video/7301433579479911711" rel="alternate"/>
-    <published>2023-11-14T21:31:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@wishbonekitchen/video/7301757924844571935</id>
     <title>lazy thanksgiving hack(s) !!!!</title>
@@ -51,5 +43,13 @@
     <content>a very unfussy turkey tutorial  </content>
     <link href="https://tiktok.com/@wishbonekitchen/video/7303695464686161183" rel="alternate"/>
     <published>2023-11-20T23:48:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@wishbonekitchen/video/7304041673800043807</id>
+    <title>Hosting on a budget has never been easier @Fidelity Investments has taught me that it’s never too soon to start creating smarter financial habits for the future. And with the cost of grocery prices these days, I need all the help I can get. #paidad  RECIP</title>
+    <updated>2023-11-21T22:12:16+00:00</updated>
+    <content>Hosting on a budget has never been easier @Fidelity Investments has taught me that it’s never too soon to start creating smarter financial habits for the future. And with the cost of grocery prices these days, I need all the help I can get. #paidad  RECIPE: 3 lbs beef chuck 1 large yellow onion chopped 4 stalks celery chopped 3 carrots chopped 6 cloves of garlic smashed ¼ cup tomato paste 2 cups dry red wine 2 cups beef or chicken broth 5 sprigs fresh thyme 5 sprigs fresh parsley Chives for garnish 2 tbsp vegetable oil Kosher salt and fresh ground pepper  Preheat oven to 350°F. Season beef with salt. Heat a large dutch oven over medium high heat. Sear in batches, adding vegetable oil as needed. Set aside. Pour off excess fat, leaving about 1-2 tbsp. Add the chopped vegetables and a pinch of salt and begin scraping up any browned beef bits off the bottom of the pot. Cook until vegetables start to soften, about 5-10 minutes. Add the tomato paste and stir to evenly distribute. Continue to cook until the tomato paste has started to caramelize and stick to the pot, about 3 minutes. Deglaze with red wine and scrape the bottom of the pot. Reduce the wine about ⅔ in volume. Stir in beef stock and return beef to the pot. The liquid should almost cover the beef completely, so add more stock or water if needed. Add thyme sprigs, a few sprigs of parsley and a bay leaf. Bring everything to a boil, cover tightly with a lid, and transfer to your preheated oven for 2-3 hours. When the beef is done cooking, remove them from the pot and set aside. Strain the braising liquid and discard the solids. Return the strained liquid to the pot and reduce by half. Taste and adjust seasoning. Optional: for a silkier sauce, whisk in a few tbsp of cold butter. To serve, ladle sauce over short ribs and top with fresh chopped chives.</content>
+    <link href="https://tiktok.com/@wishbonekitchen/video/7304041673800043807" rel="alternate"/>
+    <published>2023-11-21T22:12:16+00:00</published>
   </entry>
 </feed>
