@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jessthemaker</id>
   <title>jessthemaker TikTok</title>
-  <updated>2023-11-21T18:41:09+00:00</updated>
+  <updated>2023-11-29T22:14:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessthemaker</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessthemaker/video/7285860671932189983</id>
-    <title>What other crafty ways have you taken a selfie on trail? 🙃 Show me your trailside tripod selfies using the hashtag #trailsidetripod 😍 I originally featured the trailside tripod in my hair tie hacks reel and it’s by far my favorite! Enjoy 😉  Glasses: @smit</title>
-    <updated>2023-10-03T22:20:42+00:00</updated>
-    <content>What other crafty ways have you taken a selfie on trail? 🙃 Show me your trailside tripod selfies using the hashtag #trailsidetripod 😍 I originally featured the trailside tripod in my hair tie hacks reel and it’s by far my favorite! Enjoy 😉  Glasses: @smithoptics Bobcats Helmet: @smithoptics Forefront Shirt: @vanacollective.mtb  Hip Pack: @fromhighabove  Hair tie: @goodyhair  #mtbgram #mtblife #mtbdaily #ridebikesbehappy #bikesarefun </content>
-    <link href="https://tiktok.com/@jessthemaker/video/7285860671932189983" rel="alternate"/>
-    <published>2023-10-03T22:20:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jessthemaker/video/7289156989194702111</id>
-    <title>What are your go-to Fall MTB essentials? 🍂  REI has got you covered when it comes to lights, layers and a cozy flannel.  Click the link in bio to stock up on some fall riding essentials from @REI #reipartner #ad </title>
-    <updated>2023-10-12T19:32:08+00:00</updated>
-    <content>What are your go-to Fall MTB essentials? 🍂  REI has got you covered when it comes to lights, layers and a cozy flannel.  Click the link in bio to stock up on some fall riding essentials from @REI #reipartner #ad </content>
-    <link href="https://tiktok.com/@jessthemaker/video/7289156989194702111" rel="alternate"/>
-    <published>2023-10-12T19:32:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessthemaker/video/7293596191399464222</id>
     <title>Friendly reminder to get out and ride this week 😉 Because less scrollin’ means more rollin’ 🤘 #mtbhumor #ridebikesbehappy #ridebikeshavefunfeelgood #mtbgram #mtbfun </title>
@@ -51,5 +35,21 @@
     <content>How would you tackle this feature!? 👇 Please note: for “alt lines” take it if theres an alt line provided and be sure to avoid widening trails if there is no apparent go around. 🙌 Appreciate some of yall for pointing this out 🙏 #mtbskills #mtbgram #mtbwomen #mtblovers #mtbdaily #mtbgirls</content>
     <link href="https://tiktok.com/@jessthemaker/video/7303987260091813151" rel="alternate"/>
     <published>2023-11-21T18:41:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessthemaker/video/7306162003343625503</id>
+    <title>What’s your go-to aprés tradition? 🎿☕️❄️  No matter what brings you joy, we can all agree that a great aprés session is a universal delight!   Speaking of delight, Smartwool’s Slippers are BACK and they are an absolute game-changer when it comes to ending</title>
+    <updated>2023-11-27T15:20:25+00:00</updated>
+    <content>What’s your go-to aprés tradition? 🎿☕️❄️  No matter what brings you joy, we can all agree that a great aprés session is a universal delight!   Speaking of delight, Smartwool’s Slippers are BACK and they are an absolute game-changer when it comes to ending a day filled with adventure. Grab a pair for you or your favorite adventure buddy…or both! Give the gift of comfy and shop the holiday gift guide! Link in bio 🫶 #gofarfeelgood #smartwool #smartwoolslippers #ad</content>
+    <link href="https://tiktok.com/@jessthemaker/video/7306162003343625503" rel="alternate"/>
+    <published>2023-11-27T15:20:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessthemaker/video/7307010844884208927</id>
+    <title>Do you ride flats, clip ins, magnet pedals? All the above!? 😅😅😅 Pssst 🤫 I am going to give clip ins another go! ( and not just for opening beer ) I actually started riding clipped in when I first started mountain biking and rode them for 3 years until I s</title>
+    <updated>2023-11-29T22:14:14+00:00</updated>
+    <content>Do you ride flats, clip ins, magnet pedals? All the above!? 😅😅😅 Pssst 🤫 I am going to give clip ins another go! ( and not just for opening beer ) I actually started riding clipped in when I first started mountain biking and rode them for 3 years until I switched to flats.  Random slow falls… here I come! 🤘🤘🤘 #mtblife #mtbgram #mtbdaily #ridebikesbehappy #mtbgirl #mtbwomen #crankbrothers @crankbrothers @lagunitasbrewing </content>
+    <link href="https://tiktok.com/@jessthemaker/video/7307010844884208927" rel="alternate"/>
+    <published>2023-11-29T22:14:14+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@julesterpak</id>
   <title>julesterpak TikTok</title>
-  <updated>2023-11-21T22:25:45+00:00</updated>
+  <updated>2023-11-26T19:55:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from julesterpak</subtitle>
-  <entry>
-    <id>https://tiktok.com/@julesterpak/video/7299541727453465898</id>
-    <title>The Humane AI pin is here </title>
-    <updated>2023-11-09T19:10:19+00:00</updated>
-    <content>The Humane AI pin is here </content>
-    <link href="https://tiktok.com/@julesterpak/video/7299541727453465898" rel="alternate"/>
-    <published>2023-11-09T19:10:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@julesterpak/video/7300984136502824238</id>
     <title>Career event with @Handshake! Find your place in the federal government #HandshakePartner</title>
@@ -51,5 +43,13 @@
     <content>Why people like Tate Mcrae and Bobbi Althoff are deemed industry plants</content>
     <link href="https://tiktok.com/@julesterpak/video/7304045139935186207" rel="alternate"/>
     <published>2023-11-21T22:25:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@julesterpak/video/7305861957096099102</id>
+    <title>The average user might use TikTok Stories if they make these changes </title>
+    <updated>2023-11-26T19:55:55+00:00</updated>
+    <content>The average user might use TikTok Stories if they make these changes </content>
+    <link href="https://tiktok.com/@julesterpak/video/7305861957096099102" rel="alternate"/>
+    <published>2023-11-26T19:55:55+00:00</published>
   </entry>
 </feed>
