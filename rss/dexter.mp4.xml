@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dexter.mp4</id>
   <title>dexter.mp4 TikTok</title>
-  <updated>2023-11-30T16:44:01+00:00</updated>
+  <updated>2023-12-01T21:42:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dexter.mp4</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dexter.mp4/video/7306282002716658987</id>
-    <title>A dummy moose! #ignobelnovember #science #engineering #learneclecticthings #greenscreenvideo #greenscreen </title>
-    <updated>2023-11-27T23:05:57+00:00</updated>
-    <content>A dummy moose! #ignobelnovember #science #engineering #learneclecticthings #greenscreenvideo #greenscreen </content>
-    <link href="https://tiktok.com/@dexter.mp4/video/7306282002716658987" rel="alternate"/>
-    <published>2023-11-27T23:05:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dexter.mp4/video/7306609079982542122</id>
     <title>Pepsi’s number fever fiasco! Ig nobel guestspot #6 with @mindofmarisa  #ignobelnovember #history #learneclecticthings </title>
@@ -51,5 +43,13 @@
     <content>Spontaneous knotting of cords strings &amp; headphones! #ignobelnovember #science #learnontiktok #learneclecticthings </content>
     <link href="https://tiktok.com/@dexter.mp4/video/7307296779744152875" rel="alternate"/>
     <published>2023-11-30T16:44:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dexter.mp4/video/7307744862982507822</id>
+    <title>The hairy ball theorem!  #math #topology #learnontiktok #learneclecticthings </title>
+    <updated>2023-12-01T21:42:33+00:00</updated>
+    <content>The hairy ball theorem!  #math #topology #learnontiktok #learneclecticthings </content>
+    <link href="https://tiktok.com/@dexter.mp4/video/7307744862982507822" rel="alternate"/>
+    <published>2023-12-01T21:42:33+00:00</published>
   </entry>
 </feed>
