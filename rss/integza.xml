@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@integza</id>
   <title>integza TikTok</title>
-  <updated>2023-11-29T12:42:19+00:00</updated>
+  <updated>2023-12-01T16:39:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from integza</subtitle>
-  <entry>
-    <id>https://tiktok.com/@integza/video/7303546432965922081</id>
-    <title>Is the Assassin's Creed Leap of Faith possible in real life? #assassinscreed #ubisoft #gaming #science #extremesports</title>
-    <updated>2023-11-20T14:10:25+00:00</updated>
-    <content>Is the Assassin's Creed Leap of Faith possible in real life? #assassinscreed #ubisoft #gaming #science #extremesports</content>
-    <link href="https://tiktok.com/@integza/video/7303546432965922081" rel="alternate"/>
-    <published>2023-11-20T14:10:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@integza/video/7304296754239884577</id>
     <title>My system is kicking out some steam, but I need more power! #3dprinting #steamturbine #engineering #siencetok </title>
@@ -51,5 +43,13 @@
     <content>I made a 3D printed aerospike hybrid rocket, look at the majesty! #engineering #rocket #3dprinting </content>
     <link href="https://tiktok.com/@integza/video/7306863502772145440" rel="alternate"/>
     <published>2023-11-29T12:42:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@integza/video/7307666762718383392</id>
+    <title>You know I love Nikola Tesla. Not difficult to understand why. I even made a poster in his honour, and it is available on my website! The first 20 posters will be signed by me. (link in bio) #engineering #tesla #nikolatesla #inventor #science #history </title>
+    <updated>2023-12-01T16:39:22+00:00</updated>
+    <content>You know I love Nikola Tesla. Not difficult to understand why. I even made a poster in his honour, and it is available on my website! The first 20 posters will be signed by me. (link in bio) #engineering #tesla #nikolatesla #inventor #science #history </content>
+    <link href="https://tiktok.com/@integza/video/7307666762718383392" rel="alternate"/>
+    <published>2023-12-01T16:39:22+00:00</published>
   </entry>
 </feed>
