@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jessthemaker</id>
   <title>jessthemaker TikTok</title>
-  <updated>2023-11-29T22:14:14+00:00</updated>
+  <updated>2023-11-30T23:29:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jessthemaker</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jessthemaker/video/7293596191399464222</id>
-    <title>Friendly reminder to get out and ride this week 😉 Because less scrollin’ means more rollin’ 🤘 #mtbhumor #ridebikesbehappy #ridebikeshavefunfeelgood #mtbgram #mtbfun </title>
-    <updated>2023-10-24T18:38:33+00:00</updated>
-    <content>Friendly reminder to get out and ride this week 😉 Because less scrollin’ means more rollin’ 🤘 #mtbhumor #ridebikesbehappy #ridebikeshavefunfeelgood #mtbgram #mtbfun </content>
-    <link href="https://tiktok.com/@jessthemaker/video/7293596191399464222" rel="alternate"/>
-    <published>2023-10-24T18:38:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jessthemaker/video/7298722673343941930</id>
     <title>What are some of your favorite ways to wind down after a day full of adventure? 😍   Gettin’ comfy is a must and Smartwool’s slippers provide the perfect way to wind down after a day full of excitement! Get them while you can!     Head over to the link in </title>
@@ -51,5 +43,13 @@
     <content>Do you ride flats, clip ins, magnet pedals? All the above!? 😅😅😅 Pssst 🤫 I am going to give clip ins another go! ( and not just for opening beer ) I actually started riding clipped in when I first started mountain biking and rode them for 3 years until I switched to flats.  Random slow falls… here I come! 🤘🤘🤘 #mtblife #mtbgram #mtbdaily #ridebikesbehappy #mtbgirl #mtbwomen #crankbrothers @crankbrothers @lagunitasbrewing </content>
     <link href="https://tiktok.com/@jessthemaker/video/7307010844884208927" rel="alternate"/>
     <published>2023-11-29T22:14:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jessthemaker/video/7307401265401564447</id>
+    <title>Which one are you!? 🙃 AND who do I need to include for part 4!?? #mtbhumor #ridebikeshavefunfeelgood #mtblife #mtbgram #mtbdaily </title>
+    <updated>2023-11-30T23:29:15+00:00</updated>
+    <content>Which one are you!? 🙃 AND who do I need to include for part 4!?? #mtbhumor #ridebikeshavefunfeelgood #mtblife #mtbgram #mtbdaily </content>
+    <link href="https://tiktok.com/@jessthemaker/video/7307401265401564447" rel="alternate"/>
+    <published>2023-11-30T23:29:15+00:00</published>
   </entry>
 </feed>
