@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dexter.mp4</id>
   <title>dexter.mp4 TikTok</title>
-  <updated>2023-12-02T20:54:01+00:00</updated>
+  <updated>2023-12-03T20:52:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dexter.mp4</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dexter.mp4/video/7306976900180790574</id>
-    <title>A parboiled shrew!  #ignobelnovember #science #biology #archeology #learneclecticthings </title>
-    <updated>2023-11-29T20:02:37+00:00</updated>
-    <content>A parboiled shrew!  #ignobelnovember #science #biology #archeology #learneclecticthings </content>
-    <link href="https://tiktok.com/@dexter.mp4/video/7306976900180790574" rel="alternate"/>
-    <published>2023-11-29T20:02:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dexter.mp4/video/7307100218414091563</id>
     <title>I went to the Bodies exhibit! #science #anatomy #learneclecticthings </title>
@@ -51,5 +43,13 @@
     <content>Replying to @DaisyGamble120 The universal word: “huh?”! #linguistics #words #ignobelwhenever #learneclecticthings </content>
     <link href="https://tiktok.com/@dexter.mp4/video/7308103460094774571" rel="alternate"/>
     <published>2023-12-02T20:54:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dexter.mp4/video/7308474071828892974</id>
+    <title>Missed the boat (airplane)! #dexlore #learneclecticthings </title>
+    <updated>2023-12-03T20:52:17+00:00</updated>
+    <content>Missed the boat (airplane)! #dexlore #learneclecticthings </content>
+    <link href="https://tiktok.com/@dexter.mp4/video/7308474071828892974" rel="alternate"/>
+    <published>2023-12-03T20:52:17+00:00</published>
   </entry>
 </feed>
