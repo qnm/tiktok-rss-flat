@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@wishbonekitchen</id>
   <title>wishbonekitchen TikTok</title>
-  <updated>2023-12-02T13:58:37+00:00</updated>
+  <updated>2023-12-03T16:43:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from wishbonekitchen</subtitle>
-  <entry>
-    <id>https://tiktok.com/@wishbonekitchen/video/7306566541603081503</id>
-    <title>Urgent town hall</title>
-    <updated>2023-11-28T17:30:15+00:00</updated>
-    <content>Urgent town hall</content>
-    <link href="https://tiktok.com/@wishbonekitchen/video/7306566541603081503" rel="alternate"/>
-    <published>2023-11-28T17:30:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@wishbonekitchen/video/7306918761678916895</id>
     <title>Y’ALLLLL its so good</title>
@@ -51,5 +43,13 @@
     <content>Replying to @Gwyneth • グウェネス shrimp tree tutorial 🦐🎄🎁 </content>
     <link href="https://tiktok.com/@wishbonekitchen/video/7307996297758346527" rel="alternate"/>
     <published>2023-12-02T13:58:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@wishbonekitchen/video/7308410054355569951</id>
+    <title>loml</title>
+    <updated>2023-12-03T16:43:57+00:00</updated>
+    <content>loml</content>
+    <link href="https://tiktok.com/@wishbonekitchen/video/7308410054355569951" rel="alternate"/>
+    <published>2023-12-03T16:43:57+00:00</published>
   </entry>
 </feed>
