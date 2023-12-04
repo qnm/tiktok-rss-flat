@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dexter.mp4</id>
   <title>dexter.mp4 TikTok</title>
-  <updated>2023-12-03T20:52:17+00:00</updated>
+  <updated>2023-12-04T19:34:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dexter.mp4</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dexter.mp4/video/7307100218414091563</id>
-    <title>I went to the Bodies exhibit! #science #anatomy #learneclecticthings </title>
-    <updated>2023-11-30T04:01:05+00:00</updated>
-    <content>I went to the Bodies exhibit! #science #anatomy #learneclecticthings </content>
-    <link href="https://tiktok.com/@dexter.mp4/video/7307100218414091563" rel="alternate"/>
-    <published>2023-11-30T04:01:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dexter.mp4/video/7307296779744152875</id>
     <title>Spontaneous knotting of cords strings &amp; headphones! #ignobelnovember #science #learnontiktok #learneclecticthings </title>
@@ -51,5 +43,13 @@
     <content>Missed the boat (airplane)! #dexlore #learneclecticthings </content>
     <link href="https://tiktok.com/@dexter.mp4/video/7308474071828892974" rel="alternate"/>
     <published>2023-12-03T20:52:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dexter.mp4/video/7308824969813789995</id>
+    <title>Water wrinkled fingers and feets! #science #learneclecticthings </title>
+    <updated>2023-12-04T19:34:03+00:00</updated>
+    <content>Water wrinkled fingers and feets! #science #learneclecticthings </content>
+    <link href="https://tiktok.com/@dexter.mp4/video/7308824969813789995" rel="alternate"/>
+    <published>2023-12-04T19:34:03+00:00</published>
   </entry>
 </feed>

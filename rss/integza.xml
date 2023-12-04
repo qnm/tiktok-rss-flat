@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@integza</id>
   <title>integza TikTok</title>
-  <updated>2023-12-01T16:39:22+00:00</updated>
+  <updated>2023-12-04T18:27:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from integza</subtitle>
-  <entry>
-    <id>https://tiktok.com/@integza/video/7304296754239884577</id>
-    <title>My system is kicking out some steam, but I need more power! #3dprinting #steamturbine #engineering #siencetok </title>
-    <updated>2023-11-22T14:42:18+00:00</updated>
-    <content>My system is kicking out some steam, but I need more power! #3dprinting #steamturbine #engineering #siencetok </content>
-    <link href="https://tiktok.com/@integza/video/7304296754239884577" rel="alternate"/>
-    <published>2023-11-22T14:42:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@integza/video/7305034555671563553</id>
     <title>Four strokes engines can be fueled by gasoline, a pretty powerful fuel. Methanol is a weaker alternative. As for something more powerful than gasoline we have... nitro methane ⚡️  #fuel #engine #engineering #mechanics #mechanicalengineering </title>
@@ -51,5 +43,13 @@
     <content>You know I love Nikola Tesla. Not difficult to understand why. I even made a poster in his honour, and it is available on my website! The first 20 posters will be signed by me. (link in bio) #engineering #tesla #nikolatesla #inventor #science #history </content>
     <link href="https://tiktok.com/@integza/video/7307666762718383392" rel="alternate"/>
     <published>2023-12-01T16:39:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@integza/video/7308807758072073505</id>
+    <title>In the original design of the Earthquake Machine, Nikola Tesla used steel to build the main axis and piston. Here's how it works. #tesla #engineer #engineering #nikolatesla #inventor #science </title>
+    <updated>2023-12-04T18:27:10+00:00</updated>
+    <content>In the original design of the Earthquake Machine, Nikola Tesla used steel to build the main axis and piston. Here's how it works. #tesla #engineer #engineering #nikolatesla #inventor #science </content>
+    <link href="https://tiktok.com/@integza/video/7308807758072073505" rel="alternate"/>
+    <published>2023-12-04T18:27:10+00:00</published>
   </entry>
 </feed>
