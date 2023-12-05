@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@xylafoxlin</id>
   <title>xylafoxlin TikTok</title>
-  <updated>2023-10-30T18:21:26+00:00</updated>
+  <updated>2023-12-05T03:58:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from xylafoxlin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@xylafoxlin/video/7287106531567553838</id>
-    <title>Replying to @🐹 Keely 🐹 personally my favorite part is when he leaves his legs behind 😅 #happyspookyseason </title>
-    <updated>2023-10-07T06:55:54+00:00</updated>
-    <content>Replying to @🐹 Keely 🐹 personally my favorite part is when he leaves his legs behind 😅 #happyspookyseason </content>
-    <link href="https://tiktok.com/@xylafoxlin/video/7287106531567553838" rel="alternate"/>
-    <published>2023-10-07T06:55:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@xylafoxlin/video/7288241487379451182</id>
     <title>We’ve all be there amirite? Thank you so much for all the love on this project! #happyspookyseason #highpowerrocketry #VozDosCriadores #screammovie </title>
@@ -51,5 +43,13 @@
     <content>You know what’s way better than my 3D printed mask making skills?? APEX LEGENDS SEASON 18- RESURRECTION! Out NOW so go check it out! #SponsoredbyEA  Okay wait but forreal, resin 3D printing is kinda fun, what character would you make?</content>
     <link href="https://tiktok.com/@xylafoxlin/video/7295818258798693675" rel="alternate"/>
     <published>2023-10-30T18:21:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@xylafoxlin/video/7308955139178515754</id>
+    <title>Tis the season folks! Is it even a holiday if I havent put a giant rocket motor in something stupid? #SeasonsYeetings #RocketTree </title>
+    <updated>2023-12-05T03:58:58+00:00</updated>
+    <content>Tis the season folks! Is it even a holiday if I havent put a giant rocket motor in something stupid? #SeasonsYeetings #RocketTree </content>
+    <link href="https://tiktok.com/@xylafoxlin/video/7308955139178515754" rel="alternate"/>
+    <published>2023-12-05T03:58:58+00:00</published>
   </entry>
 </feed>
