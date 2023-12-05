@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@xylafoxlin</id>
   <title>xylafoxlin TikTok</title>
-  <updated>2023-12-05T03:58:58+00:00</updated>
+  <updated>2023-12-05T16:45:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from xylafoxlin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@xylafoxlin/video/7288241487379451182</id>
-    <title>We’ve all be there amirite? Thank you so much for all the love on this project! #happyspookyseason #highpowerrocketry #VozDosCriadores #screammovie </title>
-    <updated>2023-10-10T08:19:31+00:00</updated>
-    <content>We’ve all be there amirite? Thank you so much for all the love on this project! #happyspookyseason #highpowerrocketry #VozDosCriadores #screammovie </content>
-    <link href="https://tiktok.com/@xylafoxlin/video/7288241487379451182" rel="alternate"/>
-    <published>2023-10-10T08:19:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@xylafoxlin/video/7288466548426198318</id>
     <title>#stitch with @Kiel James Patrick brb hiding the explosives from Mr. Skelly</title>
@@ -51,5 +43,13 @@
     <content>Tis the season folks! Is it even a holiday if I havent put a giant rocket motor in something stupid? #SeasonsYeetings #RocketTree </content>
     <link href="https://tiktok.com/@xylafoxlin/video/7308955139178515754" rel="alternate"/>
     <published>2023-12-05T03:58:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@xylafoxlin/video/7309152581597580590</id>
+    <title>I am SO PROUD of this project and the way we pulled it together in 4 long and intense but wildly fun days. Y’all been asking me to try costuming for forever, and folks HERE IT IS! The folks over at @pubgmobile challenged me to bring their new skin, the Sp</title>
+    <updated>2023-12-05T16:45:33+00:00</updated>
+    <content>I am SO PROUD of this project and the way we pulled it together in 4 long and intense but wildly fun days. Y’all been asking me to try costuming for forever, and folks HERE IT IS! The folks over at @pubgmobile challenged me to bring their new skin, the Specter Soldier set, to life and they gave me 2 weeks but JOKES ON THEM I am terrible at time management so we did it in 4 days. Click the link in my bio to download PUBG MOBILE and get the Specter Soldier Set now! @pubgmcreative #ad PS. A bajillion thanks to Charis and Jason for helping out with the build! #PUBGMOBILE #PUBGMCREATIVE #PUBGMPDP.</content>
+    <link href="https://tiktok.com/@xylafoxlin/video/7309152581597580590" rel="alternate"/>
+    <published>2023-12-05T16:45:33+00:00</published>
   </entry>
 </feed>
