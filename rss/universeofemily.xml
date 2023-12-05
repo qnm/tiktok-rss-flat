@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@universeofemily</id>
   <title>universeofemily TikTok</title>
-  <updated>2023-11-25T17:25:52+00:00</updated>
+  <updated>2023-12-05T17:36:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from universeofemily</subtitle>
-  <entry>
-    <id>https://tiktok.com/@universeofemily/video/7164030274827980078</id>
-    <title>WHO’S HYPE FOR BP THIS WEEKKKKK?? #marvel #blackpanther #blackpanther2 #wakandaforever #3dprinting #propmaker #artistsoftiktok</title>
-    <updated>2022-11-09T14:56:34+00:00</updated>
-    <content>WHO’S HYPE FOR BP THIS WEEKKKKK?? #marvel #blackpanther #blackpanther2 #wakandaforever #3dprinting #propmaker #artistsoftiktok</content>
-    <link href="https://tiktok.com/@universeofemily/video/7164030274827980078" rel="alternate"/>
-    <published>2022-11-09T14:56:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@universeofemily/video/7173694154529148202</id>
-    <title>Who the hell is Bucky? ⚠️PROP WEAPONS⚠️ #thewintersoldier #buckybarnes #buckybarnescosplay #bucky #marvel #marvelcosplay #genderbendcosplay #knifeflip </title>
-    <updated>2022-12-05T15:57:19+00:00</updated>
-    <content>Who the hell is Bucky? ⚠️PROP WEAPONS⚠️ #thewintersoldier #buckybarnes #buckybarnescosplay #bucky #marvel #marvelcosplay #genderbendcosplay #knifeflip </content>
-    <link href="https://tiktok.com/@universeofemily/video/7173694154529148202" rel="alternate"/>
-    <published>2022-12-05T15:57:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@universeofemily/video/7181490144493456683</id>
-    <title>Becky Barnes? #thewintersoldier #wintersoldiercosplay #buckybarnes #buckybarnescosplay #marvelcosplay #marvel #cosplayer #genderbendcosplay </title>
-    <updated>2022-12-26T16:09:51+00:00</updated>
-    <content>Becky Barnes? #thewintersoldier #wintersoldiercosplay #buckybarnes #buckybarnescosplay #marvelcosplay #marvel #cosplayer #genderbendcosplay </content>
-    <link href="https://tiktok.com/@universeofemily/video/7181490144493456683" rel="alternate"/>
-    <published>2022-12-26T16:09:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@universeofemily/video/7228596813320834350</id>
     <title>Sunset saber spinning🖤 Chosen One lightsaber from AllySabers TLJ cosplay made by me! #lightsaber #lightsabertricks #reycosplay #thelastjedi #sabertiktok #saberspinning </title>
@@ -51,5 +27,29 @@
     <content>Making Biker Sabine! 🏍️🔥 Finally added the jacket, belt, and boots to this awesome Ahsoka look. The biggest upgrade to this cosplay though was the xenopixel replica lightsaber from @KyberSabers ! JUST LOOK HOW PRETTY!!  If you want a discount, use the code “EMILY” 💚 Speeder Bike Sabine Wren cosplay by me! Helmet 3D files from hoskws  Lightsaber from Kyber Sabers #lightsaber #lightsabers #starwarscosplay #ahsoka #sabinewrencosplay #sabinewren #3dprintedcosplay #3dprintedprops #starwars #sabertiktok </content>
     <link href="https://tiktok.com/@universeofemily/video/7305452211352374571" rel="alternate"/>
     <published>2023-11-25T17:25:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@universeofemily/video/7309154791337315630</id>
+    <title>Making Beskar ingot props from wood! ⚙️ Laser tool can be found in my profile bio! @xTool #xtool #xtools1 #cosplayprop #mandalorian #cosplayersoftiktok #movieprops </title>
+    <updated>2023-12-05T16:53:56+00:00</updated>
+    <content>Making Beskar ingot props from wood! ⚙️ Laser tool can be found in my profile bio! @xTool #xtool #xtools1 #cosplayprop #mandalorian #cosplayersoftiktok #movieprops </content>
+    <link href="https://tiktok.com/@universeofemily/video/7309154791337315630" rel="alternate"/>
+    <published>2023-12-05T16:53:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@universeofemily/video/7309165257539325230</id>
+    <title>Making Superhero Suit Fabric with Heat Transfer Vinyl! #cosplayersoftiktok #superherocosplay #marvelcosplay #cricutideas #sewing #spidermancosplay </title>
+    <updated>2023-12-05T17:34:32+00:00</updated>
+    <content>Making Superhero Suit Fabric with Heat Transfer Vinyl! #cosplayersoftiktok #superherocosplay #marvelcosplay #cricutideas #sewing #spidermancosplay </content>
+    <link href="https://tiktok.com/@universeofemily/video/7309165257539325230" rel="alternate"/>
+    <published>2023-12-05T17:34:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@universeofemily/video/7309165768631962926</id>
+    <title>Tusken Raider helmet one day cosplay challenge build! #makersoftiktok #cosplayers #cosplay #cosplayprop #movieprops #tuskenraider #starwarscosplay </title>
+    <updated>2023-12-05T17:36:31+00:00</updated>
+    <content>Tusken Raider helmet one day cosplay challenge build! #makersoftiktok #cosplayers #cosplay #cosplayprop #movieprops #tuskenraider #starwarscosplay </content>
+    <link href="https://tiktok.com/@universeofemily/video/7309165768631962926" rel="alternate"/>
+    <published>2023-12-05T17:36:31+00:00</published>
   </entry>
 </feed>
