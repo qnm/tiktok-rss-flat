@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@wishbonekitchen</id>
   <title>wishbonekitchen TikTok</title>
-  <updated>2023-12-05T20:39:05+00:00</updated>
+  <updated>2023-12-06T23:02:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from wishbonekitchen</subtitle>
-  <entry>
-    <id>https://tiktok.com/@wishbonekitchen/video/7307996297758346527</id>
-    <title>Replying to @Gwyneth • グウェネス shrimp tree tutorial 🦐🎄🎁 </title>
-    <updated>2023-12-02T13:58:37+00:00</updated>
-    <content>Replying to @Gwyneth • グウェネス shrimp tree tutorial 🦐🎄🎁 </content>
-    <link href="https://tiktok.com/@wishbonekitchen/video/7307996297758346527" rel="alternate"/>
-    <published>2023-12-02T13:58:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@wishbonekitchen/video/7308410054355569951</id>
-    <title>loml</title>
-    <updated>2023-12-03T16:43:57+00:00</updated>
-    <content>loml</content>
-    <link href="https://tiktok.com/@wishbonekitchen/video/7308410054355569951" rel="alternate"/>
-    <published>2023-12-03T16:43:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@wishbonekitchen/video/7308865959190711583</id>
     <title>@Shipt is my hosting hack this holiday season!✨ Get everything you need from your favorite stores delivered same day with Shipt. Shop my full list at Shipt.com and Happy Hosting!</title>
@@ -51,5 +35,21 @@
     <content>im obsessedddddd 😭🍭🎀🧸 now what should i stuff them with 🤨 ib @Georgie Lewis </content>
     <link href="https://tiktok.com/@wishbonekitchen/video/7309212794694552863" rel="alternate"/>
     <published>2023-12-05T20:39:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@wishbonekitchen/video/7309599228685241630</id>
+    <title>Breakups are hard.. but @Fidelity Investments has taught me that it’s never too soon to start creating smarter financial habits for the future. And with the price of take out these days, something had to change. So, I’m teaching myself how to recreate my </title>
+    <updated>2023-12-06T21:38:33+00:00</updated>
+    <content>Breakups are hard.. but @Fidelity Investments has taught me that it’s never too soon to start creating smarter financial habits for the future. And with the price of take out these days, something had to change. So, I’m teaching myself how to recreate my favorite take out dishes at home, like this cozy coconut curry chicken noodle soup. #paidad </content>
+    <link href="https://tiktok.com/@wishbonekitchen/video/7309599228685241630" rel="alternate"/>
+    <published>2023-12-06T21:38:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@wishbonekitchen/video/7309620841665285407</id>
+    <title>pain. </title>
+    <updated>2023-12-06T23:02:20+00:00</updated>
+    <content>pain. </content>
+    <link href="https://tiktok.com/@wishbonekitchen/video/7309620841665285407" rel="alternate"/>
+    <published>2023-12-06T23:02:20+00:00</published>
   </entry>
 </feed>
