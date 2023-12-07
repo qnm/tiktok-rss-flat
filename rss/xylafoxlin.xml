@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@xylafoxlin</id>
   <title>xylafoxlin TikTok</title>
-  <updated>2023-12-05T17:58:13+00:00</updated>
+  <updated>2023-12-07T02:03:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://qnm.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from xylafoxlin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@xylafoxlin/video/7288466548426198318</id>
-    <title>#stitch with @Kiel James Patrick brb hiding the explosives from Mr. Skelly</title>
-    <updated>2023-10-10T22:52:50+00:00</updated>
-    <content>#stitch with @Kiel James Patrick brb hiding the explosives from Mr. Skelly</content>
-    <link href="https://tiktok.com/@xylafoxlin/video/7288466548426198318" rel="alternate"/>
-    <published>2023-10-10T22:52:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@xylafoxlin/video/7295460346205130030</id>
     <title>Get ready with me-Halloween procrastinator edition!  Shouts out to the dude at a LA house party who called me out for wearing a dumpster as not slutty enough!!! Big W </title>
@@ -51,5 +43,13 @@
     <content>I am SO PROUD of this project and the way we pulled it together in 4 long and intense but wildly fun days. Y’all been asking me to try costuming for forever, and folks HERE IT IS! The folks over at @PUBG MOBILE challenged me to bring their new skin, the Specter Soldier set, to life and they gave me 2 weeks but JOKES ON THEM I am terrible at time management so we did it in 4 days. Click the link in my bio to download PUBG MOBILE and get the Specter Soldier Set now! @PUBGMCREATIVE #ad  PS. A bajillion thanks to Charis and Jason for helping out with the build! #PUBGMOBILE #PUBGMCREATIVE #PUBGMPDP.</content>
     <link href="https://tiktok.com/@xylafoxlin/video/7309171358821322027" rel="alternate"/>
     <published>2023-12-05T17:58:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@xylafoxlin/video/7309667495529483563</id>
+    <title>Replying to @BGP4me  TIS THE SEASON #SpruceX #SeasonsYeetings #moveoverelon </title>
+    <updated>2023-12-07T02:03:20+00:00</updated>
+    <content>Replying to @BGP4me  TIS THE SEASON #SpruceX #SeasonsYeetings #moveoverelon </content>
+    <link href="https://tiktok.com/@xylafoxlin/video/7309667495529483563" rel="alternate"/>
+    <published>2023-12-07T02:03:20+00:00</published>
   </entry>
 </feed>
